@@ -1,0 +1,125 @@
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 2.0, evaluation score is 1.2329697931231065
+Precision at 5: 0.02946859903381641
+Recall at 5: 0.01753384094754654
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 5.0, evaluation score is 1.1856225982397803
+Precision at 5: 0.02563451776649749
+Recall at 5: 0.026692047377326545
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 10.0, evaluation score is 1.178451780906171
+Precision at 5: 0.01675126903553298
+Recall at 5: 0.017533840947546533
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 50.0, evaluation score is 1.115551661640998
+Precision at 5: 0.01725888324873095
+Recall at 5: 0.01846446700507614
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 100.0, evaluation score is 1.0686070007884239
+Precision at 5: 0.006852791878172588
+Recall at 5: 0.007021996615905249
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 200.0, evaluation score is 1.0209923987122802
+Precision at 5: 0.004568527918781726
+Recall at 5: 0.004568527918781726
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Threshold Based
+For value = 0.7, evaluation score is 1.083909666519477
+Precision at 5: 0.0175796178343949
+Recall at 5: 0.018697123519458535
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Threshold Based
+For value = 0.5, evaluation score is 1.0354254038793955
+Precision at 5: 0.00964467005076142
+Recall at 5: 0.00964467005076142
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Spearman Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 50.0, evaluation score is 1.1367213413523938
+Precision at 5: 0.019289340101522813
+Recall at 5: 0.01975465313028762
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: LogLikelihood Similarity
+Neighborhood Type: Nearest N Neighbors
+For value = 40.0, evaluation score is 1.0238489835516604
+Precision at 5: 0.011421319796954321
+Recall at 5: 0.011865482233502532
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Tanimoto Coefficient
+Neighborhood Type: Threshold Based
+For value = 0.7, evaluation score is NaN
+Precision at 5: NaN
+Recall at 5: 0.0
+
+Recommendation Type: Item Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Evaluation score is 1.0805721659615921
+Precision at 5: 0.0012690355329949235
+Recall at 5: 0.0012690355329949235
+
+Recommendation Type: Item Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Evaluation score is 1.1094911830005947
+Precision at 5: 0.002304737516005119
+Recall at 5: 0.002304737516005119
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 50.0, evaluation score is 1.1347148352139065
+Precision at 5: 0.01536491677336747
+Recall at 5: 0.017925736235595388
+
+Recommendation Type: User Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Neighborhood Type: Nearest N Neighbors
+For value = 20.0, evaluation score is 1.1588891863118573
+Precision at 5: 0.016133162612035845
+Recall at 5: 0.016986769099445152
+
+Recommendation Type: Item Based Recommendations
+Evaluation Type: Root Mean Square Evaluation
+Similarity Type: Pearson Correlation
+Evaluation score is 1.1094911830006036
+Precision at 5: 0.002304737516005119
+Recall at 5: 0.002304737516005119
+

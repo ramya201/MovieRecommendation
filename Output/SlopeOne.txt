@@ -1,0 +1,2956 @@
+Recommendation of Top 5 movies for User 1
+RecommendedItem[item:1500, value:5.9178734]
+RecommendedItem[item:1642, value:5.3960385]
+RecommendedItem[item:1656, value:5.3458047]
+RecommendedItem[item:1367, value:5.2517986]
+RecommendedItem[item:1449, value:5.2109566]
+
+
+Recommendation of Top 5 movies for User 2
+RecommendedItem[item:1500, value:5.3256197]
+RecommendedItem[item:1467, value:5.197197]
+RecommendedItem[item:1449, value:5.111604]
+RecommendedItem[item:1398, value:5.0575905]
+RecommendedItem[item:1642, value:5.0265546]
+
+
+Recommendation of Top 5 movies for User 3
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1449, value:4.556421]
+RecommendedItem[item:1450, value:4.5]
+RecommendedItem[item:1398, value:4.0942326]
+RecommendedItem[item:867, value:4.0713377]
+
+
+Recommendation of Top 5 movies for User 4
+RecommendedItem[item:1642, value:6.5]
+RecommendedItem[item:1463, value:5.998848]
+RecommendedItem[item:1293, value:5.963737]
+RecommendedItem[item:1500, value:5.9061637]
+RecommendedItem[item:868, value:5.7319064]
+
+
+Recommendation of Top 5 movies for User 5
+RecommendedItem[item:1080, value:5.232233]
+RecommendedItem[item:1500, value:5.220901]
+RecommendedItem[item:1367, value:5.2018523]
+RecommendedItem[item:1233, value:4.790992]
+RecommendedItem[item:1449, value:4.7302966]
+
+
+Recommendation of Top 5 movies for User 6
+RecommendedItem[item:1500, value:5.2808075]
+RecommendedItem[item:1449, value:4.739845]
+RecommendedItem[item:1642, value:4.7349677]
+RecommendedItem[item:1367, value:4.478059]
+RecommendedItem[item:1398, value:4.46163]
+
+
+Recommendation of Top 5 movies for User 7
+RecommendedItem[item:1500, value:5.760697]
+RecommendedItem[item:1467, value:5.555532]
+RecommendedItem[item:1449, value:5.3225393]
+RecommendedItem[item:1367, value:5.310331]
+RecommendedItem[item:1643, value:5.2674007]
+
+
+Recommendation of Top 5 movies for User 8
+RecommendedItem[item:1500, value:5.8467546]
+RecommendedItem[item:1367, value:5.710745]
+RecommendedItem[item:1398, value:5.636393]
+RecommendedItem[item:1642, value:5.5857863]
+RecommendedItem[item:1449, value:5.532405]
+
+
+Recommendation of Top 5 movies for User 9
+RecommendedItem[item:1500, value:6.8786798]
+RecommendedItem[item:1367, value:5.7904444]
+RecommendedItem[item:1293, value:5.71253]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:868, value:5.371903]
+
+
+Recommendation of Top 5 movies for User 10
+RecommendedItem[item:1500, value:5.5527134]
+RecommendedItem[item:1467, value:5.244371]
+RecommendedItem[item:1642, value:5.2411156]
+RecommendedItem[item:1449, value:5.14279]
+RecommendedItem[item:1643, value:5.1379385]
+
+
+Recommendation of Top 5 movies for User 11
+RecommendedItem[item:1293, value:5.143165]
+RecommendedItem[item:1656, value:5.0224075]
+RecommendedItem[item:1612, value:4.9617915]
+RecommendedItem[item:1662, value:4.9503527]
+RecommendedItem[item:1500, value:4.849779]
+
+
+Recommendation of Top 5 movies for User 12
+RecommendedItem[item:1642, value:5.6983447]
+RecommendedItem[item:1293, value:5.644212]
+RecommendedItem[item:1500, value:5.6330104]
+RecommendedItem[item:1398, value:5.4889374]
+RecommendedItem[item:1368, value:5.451907]
+
+
+Recommendation of Top 5 movies for User 13
+RecommendedItem[item:1500, value:5.151465]
+RecommendedItem[item:1642, value:4.868019]
+RecommendedItem[item:1449, value:4.866429]
+RecommendedItem[item:1398, value:4.7403417]
+RecommendedItem[item:1467, value:4.6886673]
+
+
+Recommendation of Top 5 movies for User 14
+RecommendedItem[item:1500, value:5.7599263]
+RecommendedItem[item:1642, value:5.2075553]
+RecommendedItem[item:1449, value:5.064651]
+RecommendedItem[item:1643, value:4.994553]
+RecommendedItem[item:1467, value:4.9648943]
+
+
+Recommendation of Top 5 movies for User 15
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1642, value:4.700796]
+RecommendedItem[item:1449, value:4.329667]
+RecommendedItem[item:1467, value:4.295637]
+RecommendedItem[item:1463, value:4.215414]
+
+
+Recommendation of Top 5 movies for User 16
+RecommendedItem[item:1500, value:6.32333]
+RecommendedItem[item:1467, value:5.6341453]
+RecommendedItem[item:1367, value:5.617894]
+RecommendedItem[item:1449, value:5.6084805]
+RecommendedItem[item:1643, value:5.530516]
+
+
+Recommendation of Top 5 movies for User 17
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1293, value:4.7928934]
+RecommendedItem[item:868, value:4.659482]
+RecommendedItem[item:1064, value:4.6185126]
+RecommendedItem[item:851, value:4.513599]
+
+
+Recommendation of Top 5 movies for User 18
+RecommendedItem[item:1612, value:6.2928934]
+RecommendedItem[item:1293, value:6.1666665]
+RecommendedItem[item:1191, value:5.8333335]
+RecommendedItem[item:1175, value:5.5060544]
+RecommendedItem[item:1656, value:5.2754364]
+
+
+Recommendation of Top 5 movies for User 19
+RecommendedItem[item:1500, value:5.0790086]
+RecommendedItem[item:1642, value:5.07339]
+RecommendedItem[item:1629, value:4.9977612]
+RecommendedItem[item:1158, value:4.9927225]
+RecommendedItem[item:1449, value:4.907682]
+
+
+Recommendation of Top 5 movies for User 20
+RecommendedItem[item:1191, value:6.0]
+RecommendedItem[item:1080, value:5.1625223]
+RecommendedItem[item:1500, value:4.7071066]
+RecommendedItem[item:1642, value:4.631331]
+RecommendedItem[item:1449, value:4.3454885]
+
+
+Recommendation of Top 5 movies for User 21
+RecommendedItem[item:1500, value:5.699558]
+RecommendedItem[item:1467, value:5.365068]
+RecommendedItem[item:1449, value:5.1717515]
+RecommendedItem[item:868, value:5.166782]
+RecommendedItem[item:1064, value:4.98846]
+
+
+Recommendation of Top 5 movies for User 22
+RecommendedItem[item:1080, value:6.2910533]
+RecommendedItem[item:1467, value:5.5521545]
+RecommendedItem[item:1367, value:5.453369]
+RecommendedItem[item:1398, value:5.3690767]
+RecommendedItem[item:1500, value:5.3191857]
+
+
+Recommendation of Top 5 movies for User 23
+RecommendedItem[item:1367, value:5.0528355]
+RecommendedItem[item:1642, value:4.9701395]
+RecommendedItem[item:1500, value:4.924853]
+RecommendedItem[item:1449, value:4.8368683]
+RecommendedItem[item:1368, value:4.761039]
+
+
+Recommendation of Top 5 movies for User 24
+RecommendedItem[item:1500, value:6.164292]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1449, value:5.4868493]
+RecommendedItem[item:1398, value:5.484127]
+RecommendedItem[item:1467, value:5.3900895]
+
+
+Recommendation of Top 5 movies for User 25
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1080, value:5.2777953]
+RecommendedItem[item:1500, value:5.25]
+RecommendedItem[item:1467, value:5.1956973]
+RecommendedItem[item:1367, value:5.1493754]
+
+
+Recommendation of Top 5 movies for User 26
+RecommendedItem[item:1500, value:5.7928934]
+RecommendedItem[item:1467, value:4.648133]
+RecommendedItem[item:1449, value:4.598168]
+RecommendedItem[item:1642, value:4.5902367]
+RecommendedItem[item:1293, value:4.5583086]
+
+
+Recommendation of Top 5 movies for User 27
+RecommendedItem[item:1500, value:5.1081944]
+RecommendedItem[item:1398, value:4.539774]
+RecommendedItem[item:1449, value:4.507615]
+RecommendedItem[item:1642, value:4.5]
+RecommendedItem[item:851, value:4.4831057]
+
+
+Recommendation of Top 5 movies for User 28
+RecommendedItem[item:1500, value:5.8766947]
+RecommendedItem[item:1367, value:5.393503]
+RecommendedItem[item:1293, value:5.1916094]
+RecommendedItem[item:1467, value:5.164445]
+RecommendedItem[item:1642, value:5.0955315]
+
+
+Recommendation of Top 5 movies for User 29
+RecommendedItem[item:1500, value:6.8786798]
+RecommendedItem[item:1642, value:5.3458047]
+RecommendedItem[item:1367, value:5.3019977]
+RecommendedItem[item:1450, value:5.1774135]
+RecommendedItem[item:1293, value:5.088062]
+
+
+Recommendation of Top 5 movies for User 30
+RecommendedItem[item:1293, value:5.6604123]
+RecommendedItem[item:1642, value:5.659259]
+RecommendedItem[item:1500, value:5.508622]
+RecommendedItem[item:1367, value:5.479311]
+RecommendedItem[item:1612, value:5.4674106]
+
+
+Recommendation of Top 5 movies for User 31
+RecommendedItem[item:1472, value:5.5]
+RecommendedItem[item:1642, value:5.3137817]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1367, value:4.9126573]
+RecommendedItem[item:1547, value:4.905573]
+
+
+Recommendation of Top 5 movies for User 32
+RecommendedItem[item:1500, value:5.3398113]
+RecommendedItem[item:1293, value:4.7674932]
+RecommendedItem[item:851, value:4.747658]
+RecommendedItem[item:1449, value:4.7461195]
+RecommendedItem[item:1467, value:4.7225575]
+
+
+Recommendation of Top 5 movies for User 33
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:6.1068773]
+RecommendedItem[item:1398, value:5.7071066]
+RecommendedItem[item:1449, value:5.7040277]
+RecommendedItem[item:1642, value:5.5857863]
+
+
+Recommendation of Top 5 movies for User 34
+RecommendedItem[item:1398, value:6.5]
+RecommendedItem[item:1396, value:6.0]
+RecommendedItem[item:1189, value:5.820165]
+RecommendedItem[item:1367, value:5.570572]
+RecommendedItem[item:1342, value:5.5]
+
+
+Recommendation of Top 5 movies for User 35
+RecommendedItem[item:1639, value:6.0]
+RecommendedItem[item:1449, value:5.410487]
+RecommendedItem[item:1189, value:5.0567055]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 36
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:851, value:6.1704206]
+RecommendedItem[item:1293, value:5.235702]
+RecommendedItem[item:868, value:5.122357]
+RecommendedItem[item:1158, value:5.0]
+
+
+Recommendation of Top 5 movies for User 37
+RecommendedItem[item:1642, value:6.3458047]
+RecommendedItem[item:1500, value:5.9196377]
+RecommendedItem[item:1467, value:5.550549]
+RecommendedItem[item:1449, value:5.3855133]
+RecommendedItem[item:1367, value:5.3241186]
+
+
+Recommendation of Top 5 movies for User 38
+RecommendedItem[item:1293, value:6.1601815]
+RecommendedItem[item:1612, value:5.7110486]
+RecommendedItem[item:1467, value:5.5913544]
+RecommendedItem[item:1642, value:5.5844913]
+RecommendedItem[item:1656, value:5.5]
+
+
+Recommendation of Top 5 movies for User 39
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1541, value:6.5]
+RecommendedItem[item:868, value:5.5804152]
+RecommendedItem[item:1449, value:5.271282]
+RecommendedItem[item:1629, value:5.097462]
+
+
+Recommendation of Top 5 movies for User 40
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1484, value:4.5]
+RecommendedItem[item:868, value:4.2414966]
+RecommendedItem[item:1449, value:4.0751467]
+RecommendedItem[item:851, value:4.0424714]
+
+
+Recommendation of Top 5 movies for User 41
+RecommendedItem[item:1500, value:5.2224646]
+RecommendedItem[item:1367, value:5.0263176]
+RecommendedItem[item:1449, value:4.8035827]
+RecommendedItem[item:1467, value:4.774094]
+RecommendedItem[item:1642, value:4.7535753]
+
+
+Recommendation of Top 5 movies for User 42
+RecommendedItem[item:1293, value:7.0]
+RecommendedItem[item:1500, value:6.258967]
+RecommendedItem[item:1463, value:5.5]
+RecommendedItem[item:1294, value:5.5]
+RecommendedItem[item:1643, value:5.2576294]
+
+
+Recommendation of Top 5 movies for User 43
+RecommendedItem[item:1500, value:5.9448214]
+RecommendedItem[item:1449, value:5.1065445]
+RecommendedItem[item:1642, value:5.0657063]
+RecommendedItem[item:1293, value:5.0457525]
+RecommendedItem[item:1463, value:5.0325317]
+
+
+Recommendation of Top 5 movies for User 44
+RecommendedItem[item:1500, value:5.5385404]
+RecommendedItem[item:1293, value:5.3408413]
+RecommendedItem[item:1080, value:5.0673265]
+RecommendedItem[item:1463, value:5.059942]
+RecommendedItem[item:1449, value:5.0020714]
+
+
+Recommendation of Top 5 movies for User 45
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1449, value:5.493093]
+RecommendedItem[item:1467, value:5.3473816]
+RecommendedItem[item:1639, value:5.279042]
+RecommendedItem[item:1064, value:5.2328033]
+
+
+Recommendation of Top 5 movies for User 46
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:851, value:5.409392]
+RecommendedItem[item:1367, value:5.2279305]
+RecommendedItem[item:1293, value:5.116554]
+RecommendedItem[item:1449, value:5.102082]
+
+
+Recommendation of Top 5 movies for User 47
+RecommendedItem[item:851, value:5.114734]
+RecommendedItem[item:1398, value:5.0439987]
+RecommendedItem[item:1064, value:5.039619]
+RecommendedItem[item:1293, value:5.0302258]
+RecommendedItem[item:1639, value:5.022865]
+
+
+Recommendation of Top 5 movies for User 48
+RecommendedItem[item:1500, value:5.482914]
+RecommendedItem[item:1398, value:5.213727]
+RecommendedItem[item:1367, value:5.196178]
+RecommendedItem[item:1449, value:4.832711]
+RecommendedItem[item:1467, value:4.7168493]
+
+
+Recommendation of Top 5 movies for User 49
+RecommendedItem[item:1367, value:4.479639]
+RecommendedItem[item:1449, value:4.2965865]
+RecommendedItem[item:1293, value:4.1543684]
+RecommendedItem[item:868, value:4.0870624]
+RecommendedItem[item:1642, value:4.0415926]
+
+
+Recommendation of Top 5 movies for User 50
+RecommendedItem[item:1191, value:5.1666665]
+RecommendedItem[item:1293, value:5.0332932]
+RecommendedItem[item:1612, value:4.6892676]
+RecommendedItem[item:1080, value:4.660988]
+RecommendedItem[item:1500, value:4.5]
+
+
+Recommendation of Top 5 movies for User 51
+RecommendedItem[item:1367, value:6.160932]
+RecommendedItem[item:1500, value:5.7247577]
+RecommendedItem[item:1080, value:5.6541953]
+RecommendedItem[item:1389, value:5.5]
+RecommendedItem[item:296, value:5.3231773]
+
+
+Recommendation of Top 5 movies for User 52
+RecommendedItem[item:1449, value:5.554439]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1398, value:5.458519]
+RecommendedItem[item:1642, value:5.3519125]
+RecommendedItem[item:1064, value:5.2834764]
+
+
+Recommendation of Top 5 movies for User 53
+RecommendedItem[item:1642, value:6.0502524]
+RecommendedItem[item:1463, value:6.0]
+RecommendedItem[item:1398, value:5.7567935]
+RecommendedItem[item:1500, value:5.597631]
+RecommendedItem[item:1449, value:5.371408]
+
+
+Recommendation of Top 5 movies for User 54
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1467, value:5.7517896]
+RecommendedItem[item:1398, value:5.5138135]
+RecommendedItem[item:1642, value:5.5]
+RecommendedItem[item:851, value:5.404967]
+
+
+Recommendation of Top 5 movies for User 55
+RecommendedItem[item:1642, value:6.0]
+RecommendedItem[item:1398, value:5.79777]
+RecommendedItem[item:1367, value:5.301405]
+RecommendedItem[item:1467, value:5.219171]
+RecommendedItem[item:1064, value:5.1968594]
+
+
+Recommendation of Top 5 movies for User 56
+RecommendedItem[item:1500, value:6.261379]
+RecommendedItem[item:1463, value:5.630602]
+RecommendedItem[item:1293, value:5.519434]
+RecommendedItem[item:1617, value:5.5]
+RecommendedItem[item:1398, value:5.340833]
+
+
+Recommendation of Top 5 movies for User 57
+RecommendedItem[item:1463, value:5.7928934]
+RecommendedItem[item:1500, value:5.6430836]
+RecommendedItem[item:1642, value:5.557758]
+RecommendedItem[item:1449, value:5.3617506]
+RecommendedItem[item:1398, value:5.3387156]
+
+
+Recommendation of Top 5 movies for User 58
+RecommendedItem[item:1662, value:5.5]
+RecommendedItem[item:1500, value:5.2591944]
+RecommendedItem[item:1293, value:5.145849]
+RecommendedItem[item:1642, value:5.1128974]
+RecommendedItem[item:1367, value:4.9995418]
+
+
+Recommendation of Top 5 movies for User 59
+RecommendedItem[item:1500, value:5.9853187]
+RecommendedItem[item:1642, value:5.39925]
+RecommendedItem[item:1398, value:5.317666]
+RecommendedItem[item:1643, value:5.2752504]
+RecommendedItem[item:1467, value:5.267403]
+
+
+Recommendation of Top 5 movies for User 60
+RecommendedItem[item:1175, value:5.5701222]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1390, value:5.5]
+RecommendedItem[item:1367, value:5.386788]
+RecommendedItem[item:1643, value:5.304577]
+
+
+Recommendation of Top 5 movies for User 61
+RecommendedItem[item:1398, value:6.0]
+RecommendedItem[item:1639, value:6.0]
+RecommendedItem[item:1080, value:5.684699]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1449, value:5.4852233]
+
+
+Recommendation of Top 5 movies for User 62
+RecommendedItem[item:1500, value:5.2754664]
+RecommendedItem[item:1467, value:4.8327403]
+RecommendedItem[item:1449, value:4.8102064]
+RecommendedItem[item:1367, value:4.7839875]
+RecommendedItem[item:1398, value:4.6957145]
+
+
+Recommendation of Top 5 movies for User 63
+RecommendedItem[item:1500, value:5.1796227]
+RecommendedItem[item:1293, value:4.8855333]
+RecommendedItem[item:1449, value:4.6587605]
+RecommendedItem[item:1612, value:4.494386]
+RecommendedItem[item:1642, value:4.468611]
+
+
+Recommendation of Top 5 movies for User 64
+RecommendedItem[item:1500, value:5.5776997]
+RecommendedItem[item:1449, value:4.9268646]
+RecommendedItem[item:1367, value:4.911322]
+RecommendedItem[item:1467, value:4.8117156]
+RecommendedItem[item:1643, value:4.80633]
+
+
+Recommendation of Top 5 movies for User 65
+RecommendedItem[item:1500, value:5.5915914]
+RecommendedItem[item:1293, value:5.3998556]
+RecommendedItem[item:1463, value:5.2928934]
+RecommendedItem[item:1642, value:5.1799417]
+RecommendedItem[item:1643, value:5.036466]
+
+
+Recommendation of Top 5 movies for User 66
+RecommendedItem[item:1500, value:6.5857863]
+RecommendedItem[item:1463, value:5.124527]
+RecommendedItem[item:1293, value:4.8284273]
+RecommendedItem[item:1639, value:4.773459]
+RecommendedItem[item:1398, value:4.7477827]
+
+
+Recommendation of Top 5 movies for User 67
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1064, value:6.445903]
+RecommendedItem[item:1467, value:6.0456634]
+RecommendedItem[item:851, value:6.0056343]
+RecommendedItem[item:1642, value:6.0]
+
+
+Recommendation of Top 5 movies for User 68
+RecommendedItem[item:1500, value:6.2071066]
+RecommendedItem[item:1463, value:5.7373137]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1602, value:5.434043]
+RecommendedItem[item:1293, value:5.2928934]
+
+
+Recommendation of Top 5 movies for User 69
+RecommendedItem[item:1500, value:6.111111]
+RecommendedItem[item:1306, value:5.7338557]
+RecommendedItem[item:1642, value:5.4578667]
+RecommendedItem[item:1449, value:5.3400464]
+RecommendedItem[item:1467, value:5.2753754]
+
+
+Recommendation of Top 5 movies for User 70
+RecommendedItem[item:1080, value:5.176777]
+RecommendedItem[item:1500, value:5.1581054]
+RecommendedItem[item:1367, value:4.9839287]
+RecommendedItem[item:1191, value:4.980509]
+RecommendedItem[item:1398, value:4.9598002]
+
+
+Recommendation of Top 5 movies for User 71
+RecommendedItem[item:1642, value:5.0877786]
+RecommendedItem[item:1367, value:4.796638]
+RecommendedItem[item:1467, value:4.7567663]
+RecommendedItem[item:1398, value:4.6741]
+RecommendedItem[item:1639, value:4.6407995]
+
+
+Recommendation of Top 5 movies for User 72
+RecommendedItem[item:1500, value:5.3515244]
+RecommendedItem[item:1642, value:5.3059835]
+RecommendedItem[item:1367, value:5.041629]
+RecommendedItem[item:1398, value:4.9846683]
+RecommendedItem[item:1368, value:4.903345]
+
+
+Recommendation of Top 5 movies for User 73
+RecommendedItem[item:1500, value:5.4318647]
+RecommendedItem[item:1367, value:4.966041]
+RecommendedItem[item:1449, value:4.927639]
+RecommendedItem[item:1642, value:4.8979297]
+RecommendedItem[item:1064, value:4.70712]
+
+
+Recommendation of Top 5 movies for User 74
+RecommendedItem[item:1500, value:5.8333335]
+RecommendedItem[item:1064, value:5.0481277]
+RecommendedItem[item:1449, value:4.902023]
+RecommendedItem[item:1293, value:4.8857203]
+RecommendedItem[item:1189, value:4.631826]
+
+
+Recommendation of Top 5 movies for User 75
+RecommendedItem[item:1293, value:6.369398]
+RecommendedItem[item:1500, value:6.1666665]
+RecommendedItem[item:1467, value:5.438948]
+RecommendedItem[item:1612, value:5.4142137]
+RecommendedItem[item:1646, value:5.3867297]
+
+
+Recommendation of Top 5 movies for User 76
+RecommendedItem[item:1500, value:5.635702]
+RecommendedItem[item:1642, value:5.045495]
+RecommendedItem[item:1064, value:4.96953]
+RecommendedItem[item:1398, value:4.909738]
+RecommendedItem[item:1449, value:4.9073873]
+
+
+Recommendation of Top 5 movies for User 77
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:6.3333335]
+RecommendedItem[item:1463, value:6.0]
+RecommendedItem[item:1662, value:5.5]
+RecommendedItem[item:1646, value:5.261204]
+
+
+Recommendation of Top 5 movies for User 78
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:6.134544]
+RecommendedItem[item:1467, value:5.5]
+RecommendedItem[item:1449, value:5.3159904]
+RecommendedItem[item:1541, value:5.2754364]
+
+
+Recommendation of Top 5 movies for User 79
+RecommendedItem[item:1500, value:5.369398]
+RecommendedItem[item:1449, value:5.2218056]
+RecommendedItem[item:1467, value:5.1414213]
+RecommendedItem[item:1064, value:5.0659127]
+RecommendedItem[item:1367, value:5.0348134]
+
+
+Recommendation of Top 5 movies for User 80
+RecommendedItem[item:1500, value:5.7071066]
+RecommendedItem[item:1306, value:5.5]
+RecommendedItem[item:1467, value:4.895129]
+RecommendedItem[item:1642, value:4.8907924]
+RecommendedItem[item:1367, value:4.8693867]
+
+
+Recommendation of Top 5 movies for User 81
+RecommendedItem[item:1639, value:4.95361]
+RecommendedItem[item:1449, value:4.879099]
+RecommendedItem[item:1467, value:4.824658]
+RecommendedItem[item:1064, value:4.821737]
+RecommendedItem[item:1398, value:4.7799287]
+
+
+Recommendation of Top 5 movies for User 82
+RecommendedItem[item:1500, value:5.2871857]
+RecommendedItem[item:1642, value:4.7195983]
+RecommendedItem[item:1449, value:4.556342]
+RecommendedItem[item:1398, value:4.520211]
+RecommendedItem[item:1656, value:4.5]
+
+
+Recommendation of Top 5 movies for User 83
+RecommendedItem[item:1500, value:5.4461455]
+RecommendedItem[item:1449, value:5.360684]
+RecommendedItem[item:1398, value:5.1557083]
+RecommendedItem[item:1467, value:5.1233935]
+RecommendedItem[item:1367, value:4.8867598]
+
+
+Recommendation of Top 5 movies for User 84
+RecommendedItem[item:1500, value:6.2071066]
+RecommendedItem[item:1463, value:5.7083664]
+RecommendedItem[item:1642, value:5.550358]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1646, value:5.5]
+
+
+Recommendation of Top 5 movies for User 85
+RecommendedItem[item:1500, value:4.9972005]
+RecommendedItem[item:1449, value:4.703697]
+RecommendedItem[item:1642, value:4.556841]
+RecommendedItem[item:1467, value:4.552134]
+RecommendedItem[item:1293, value:4.50201]
+
+
+Recommendation of Top 5 movies for User 86
+RecommendedItem[item:1398, value:6.0765047]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:851, value:5.3960223]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1080, value:4.9488387]
+
+
+Recommendation of Top 5 movies for User 87
+RecommendedItem[item:1500, value:6.008004]
+RecommendedItem[item:1449, value:5.4329414]
+RecommendedItem[item:1642, value:5.4112797]
+RecommendedItem[item:1467, value:5.391387]
+RecommendedItem[item:1643, value:5.3280454]
+
+
+Recommendation of Top 5 movies for User 88
+RecommendedItem[item:1367, value:6.25]
+RecommendedItem[item:851, value:5.0593414]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1372, value:5.0]
+
+
+Recommendation of Top 5 movies for User 89
+RecommendedItem[item:1293, value:6.8926315]
+RecommendedItem[item:1612, value:6.59662]
+RecommendedItem[item:1191, value:5.761204]
+RecommendedItem[item:1233, value:5.6391993]
+RecommendedItem[item:1500, value:5.5]
+
+
+Recommendation of Top 5 movies for User 90
+RecommendedItem[item:1500, value:5.7940497]
+RecommendedItem[item:1642, value:5.4757185]
+RecommendedItem[item:1449, value:5.396958]
+RecommendedItem[item:1367, value:5.264995]
+RecommendedItem[item:1398, value:5.219031]
+
+
+Recommendation of Top 5 movies for User 91
+RecommendedItem[item:1367, value:5.955268]
+RecommendedItem[item:1463, value:5.548406]
+RecommendedItem[item:1080, value:5.441203]
+RecommendedItem[item:1398, value:5.3701735]
+RecommendedItem[item:1500, value:5.2156653]
+
+
+Recommendation of Top 5 movies for User 92
+RecommendedItem[item:1500, value:5.597006]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1463, value:5.1268415]
+RecommendedItem[item:1449, value:5.0299773]
+RecommendedItem[item:1398, value:4.991101]
+
+
+Recommendation of Top 5 movies for User 93
+RecommendedItem[item:1467, value:6.2928934]
+RecommendedItem[item:1642, value:5.6051]
+RecommendedItem[item:1144, value:5.5]
+RecommendedItem[item:1629, value:5.232943]
+RecommendedItem[item:1080, value:5.226541]
+
+
+Recommendation of Top 5 movies for User 94
+RecommendedItem[item:1642, value:5.436545]
+RecommendedItem[item:1500, value:5.4252005]
+RecommendedItem[item:1449, value:5.335239]
+RecommendedItem[item:1367, value:5.292284]
+RecommendedItem[item:1398, value:5.213573]
+
+
+Recommendation of Top 5 movies for User 95
+RecommendedItem[item:1293, value:5.7620525]
+RecommendedItem[item:1500, value:5.561544]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1191, value:5.408847]
+RecommendedItem[item:1612, value:5.3619194]
+
+
+Recommendation of Top 5 movies for User 96
+RecommendedItem[item:1500, value:5.6838946]
+RecommendedItem[item:1367, value:5.6550994]
+RecommendedItem[item:1233, value:5.625076]
+RecommendedItem[item:1643, value:5.6028767]
+RecommendedItem[item:1398, value:5.3529615]
+
+
+Recommendation of Top 5 movies for User 97
+RecommendedItem[item:1643, value:5.628046]
+RecommendedItem[item:1500, value:5.386097]
+RecommendedItem[item:1367, value:5.304069]
+RecommendedItem[item:1398, value:5.275074]
+RecommendedItem[item:1467, value:5.193545]
+
+
+Recommendation of Top 5 movies for User 98
+RecommendedItem[item:1463, value:5.7071066]
+RecommendedItem[item:1080, value:5.6601887]
+RecommendedItem[item:1191, value:5.5]
+RecommendedItem[item:1642, value:5.3284273]
+RecommendedItem[item:1643, value:5.1596947]
+
+
+Recommendation of Top 5 movies for User 99
+RecommendedItem[item:1500, value:6.2199664]
+RecommendedItem[item:1367, value:5.277363]
+RecommendedItem[item:1064, value:5.266006]
+RecommendedItem[item:1467, value:5.257649]
+RecommendedItem[item:1398, value:5.221742]
+
+
+Recommendation of Top 5 movies for User 100
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:868, value:4.977084]
+RecommendedItem[item:1064, value:4.9651675]
+RecommendedItem[item:1639, value:4.951472]
+RecommendedItem[item:1449, value:4.689858]
+
+
+Recommendation of Top 5 movies for User 101
+RecommendedItem[item:1500, value:5.6213202]
+RecommendedItem[item:851, value:5.5005074]
+RecommendedItem[item:1398, value:5.161795]
+RecommendedItem[item:1449, value:5.042886]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 102
+RecommendedItem[item:1500, value:4.668446]
+RecommendedItem[item:1642, value:4.3690867]
+RecommendedItem[item:1467, value:4.2906737]
+RecommendedItem[item:1367, value:4.238484]
+RecommendedItem[item:1398, value:4.1539793]
+
+
+Recommendation of Top 5 movies for User 103
+RecommendedItem[item:1500, value:5.9530816]
+RecommendedItem[item:1293, value:5.9142137]
+RecommendedItem[item:1080, value:5.5]
+RecommendedItem[item:1467, value:5.4723315]
+RecommendedItem[item:1398, value:5.279506]
+
+
+Recommendation of Top 5 movies for User 104
+RecommendedItem[item:1500, value:5.4336476]
+RecommendedItem[item:1639, value:4.406834]
+RecommendedItem[item:1064, value:4.2933316]
+RecommendedItem[item:1449, value:4.25348]
+RecommendedItem[item:1467, value:4.25]
+
+
+Recommendation of Top 5 movies for User 105
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1064, value:5.4309645]
+RecommendedItem[item:868, value:5.334483]
+RecommendedItem[item:1398, value:5.231031]
+RecommendedItem[item:1449, value:5.1338806]
+
+
+Recommendation of Top 5 movies for User 106
+RecommendedItem[item:1500, value:5.1928473]
+RecommendedItem[item:1293, value:4.9843216]
+RecommendedItem[item:1643, value:4.9276223]
+RecommendedItem[item:1449, value:4.8568287]
+RecommendedItem[item:1642, value:4.7719827]
+
+
+Recommendation of Top 5 movies for User 107
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1642, value:4.5331197]
+RecommendedItem[item:1396, value:4.520742]
+RecommendedItem[item:1541, value:4.5]
+RecommendedItem[item:1629, value:4.4901876]
+
+
+Recommendation of Top 5 movies for User 108
+RecommendedItem[item:1293, value:6.2071066]
+RecommendedItem[item:1175, value:5.9070716]
+RecommendedItem[item:1463, value:5.5]
+RecommendedItem[item:1500, value:5.3786798]
+RecommendedItem[item:1191, value:5.1666665]
+
+
+Recommendation of Top 5 movies for User 109
+RecommendedItem[item:1500, value:6.0046806]
+RecommendedItem[item:1293, value:5.398716]
+RecommendedItem[item:1463, value:5.395225]
+RecommendedItem[item:1449, value:5.0637946]
+RecommendedItem[item:1612, value:5.050898]
+
+
+Recommendation of Top 5 movies for User 110
+RecommendedItem[item:1656, value:4.826309]
+RecommendedItem[item:1449, value:4.755193]
+RecommendedItem[item:1367, value:4.742047]
+RecommendedItem[item:1500, value:4.6588154]
+RecommendedItem[item:1467, value:4.6452417]
+
+
+Recommendation of Top 5 movies for User 111
+RecommendedItem[item:1064, value:5.04044]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1305, value:5.0]
+RecommendedItem[item:1449, value:4.985911]
+
+
+Recommendation of Top 5 movies for User 112
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1541, value:6.0]
+RecommendedItem[item:1398, value:5.115515]
+RecommendedItem[item:1449, value:5.0829296]
+RecommendedItem[item:1639, value:5.08088]
+
+
+Recommendation of Top 5 movies for User 113
+RecommendedItem[item:1500, value:5.8651237]
+RecommendedItem[item:1293, value:5.3408976]
+RecommendedItem[item:851, value:5.0945606]
+RecommendedItem[item:1612, value:5.04605]
+RecommendedItem[item:1662, value:4.9530816]
+
+
+Recommendation of Top 5 movies for User 114
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1367, value:5.169087]
+RecommendedItem[item:1612, value:5.0]
+RecommendedItem[item:1500, value:4.8181524]
+RecommendedItem[item:1237, value:4.75]
+
+
+Recommendation of Top 5 movies for User 115
+RecommendedItem[item:1500, value:5.7015667]
+RecommendedItem[item:1367, value:5.4373827]
+RecommendedItem[item:1642, value:5.3745832]
+RecommendedItem[item:1467, value:5.3011427]
+RecommendedItem[item:1368, value:5.0811563]
+
+
+Recommendation of Top 5 movies for User 116
+RecommendedItem[item:1500, value:5.473544]
+RecommendedItem[item:1449, value:4.378361]
+RecommendedItem[item:1467, value:4.2288647]
+RecommendedItem[item:1367, value:4.152564]
+RecommendedItem[item:1398, value:4.1342654]
+
+
+Recommendation of Top 5 movies for User 117
+RecommendedItem[item:1642, value:6.232233]
+RecommendedItem[item:1449, value:5.770984]
+RecommendedItem[item:1500, value:5.6497283]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1467, value:5.470499]
+
+
+Recommendation of Top 5 movies for User 118
+RecommendedItem[item:1463, value:6.3458047]
+RecommendedItem[item:1293, value:6.0606604]
+RecommendedItem[item:1500, value:6.031547]
+RecommendedItem[item:1367, value:5.9984903]
+RecommendedItem[item:1642, value:5.981031]
+
+
+Recommendation of Top 5 movies for User 119
+RecommendedItem[item:1500, value:5.6388493]
+RecommendedItem[item:1449, value:5.4201875]
+RecommendedItem[item:1467, value:5.369751]
+RecommendedItem[item:1642, value:5.322144]
+RecommendedItem[item:1639, value:5.178665]
+
+
+Recommendation of Top 5 movies for User 120
+RecommendedItem[item:1463, value:6.2821045]
+RecommendedItem[item:851, value:5.5706]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1342, value:5.5]
+RecommendedItem[item:1293, value:5.4775925]
+
+
+Recommendation of Top 5 movies for User 121
+RecommendedItem[item:1500, value:5.482441]
+RecommendedItem[item:1642, value:5.150221]
+RecommendedItem[item:1449, value:4.935746]
+RecommendedItem[item:1463, value:4.907015]
+RecommendedItem[item:1293, value:4.885388]
+
+
+Recommendation of Top 5 movies for User 122
+RecommendedItem[item:1500, value:6.656854]
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:6.0]
+RecommendedItem[item:1237, value:5.75]
+RecommendedItem[item:1642, value:5.3383884]
+
+
+Recommendation of Top 5 movies for User 123
+RecommendedItem[item:1191, value:6.1073685]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1293, value:4.9061637]
+RecommendedItem[item:1449, value:4.8043623]
+RecommendedItem[item:1500, value:4.780526]
+
+
+Recommendation of Top 5 movies for User 124
+RecommendedItem[item:1642, value:5.544156]
+RecommendedItem[item:1293, value:5.0]
+RecommendedItem[item:1367, value:4.5777407]
+RecommendedItem[item:1449, value:4.5233517]
+RecommendedItem[item:1398, value:4.476541]
+
+
+Recommendation of Top 5 movies for User 125
+RecommendedItem[item:1500, value:5.6427593]
+RecommendedItem[item:1467, value:5.1982827]
+RecommendedItem[item:1191, value:5.152842]
+RecommendedItem[item:1449, value:4.9897504]
+RecommendedItem[item:1398, value:4.964515]
+
+
+Recommendation of Top 5 movies for User 126
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:5.15732]
+RecommendedItem[item:1629, value:5.0325794]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:119, value:4.9818783]
+
+
+Recommendation of Top 5 movies for User 127
+RecommendedItem[item:1500, value:6.84699]
+RecommendedItem[item:1629, value:5.918131]
+RecommendedItem[item:1293, value:5.598647]
+RecommendedItem[item:1547, value:5.3819475]
+RecommendedItem[item:1449, value:5.377372]
+
+
+Recommendation of Top 5 movies for User 128
+RecommendedItem[item:1500, value:5.403945]
+RecommendedItem[item:1467, value:5.1194177]
+RecommendedItem[item:1449, value:5.0689626]
+RecommendedItem[item:1642, value:5.0449586]
+RecommendedItem[item:1367, value:5.011858]
+
+
+Recommendation of Top 5 movies for User 129
+RecommendedItem[item:1398, value:4.6834173]
+RecommendedItem[item:1064, value:4.5118446]
+RecommendedItem[item:1449, value:4.3404417]
+RecommendedItem[item:868, value:4.229278]
+RecommendedItem[item:1450, value:4.0]
+
+
+Recommendation of Top 5 movies for User 130
+RecommendedItem[item:1500, value:6.313911]
+RecommendedItem[item:1449, value:5.7453294]
+RecommendedItem[item:1398, value:5.6320543]
+RecommendedItem[item:1367, value:5.58826]
+RecommendedItem[item:1467, value:5.5374336]
+
+
+Recommendation of Top 5 movies for User 131
+RecommendedItem[item:1293, value:5.9911036]
+RecommendedItem[item:1191, value:5.6049438]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1449, value:5.336938]
+RecommendedItem[item:1467, value:5.3333335]
+
+
+Recommendation of Top 5 movies for User 132
+RecommendedItem[item:1500, value:5.1081944]
+RecommendedItem[item:1449, value:4.5619745]
+RecommendedItem[item:1367, value:4.550979]
+RecommendedItem[item:1293, value:4.5]
+RecommendedItem[item:1612, value:4.5]
+
+
+Recommendation of Top 5 movies for User 133
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1398, value:5.4309645]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1629, value:4.799832]
+RecommendedItem[item:868, value:4.718442]
+
+
+Recommendation of Top 5 movies for User 134
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1467, value:6.0]
+RecommendedItem[item:1639, value:5.5]
+RecommendedItem[item:1541, value:5.5]
+RecommendedItem[item:1398, value:5.4092236]
+
+
+Recommendation of Top 5 movies for User 135
+RecommendedItem[item:1500, value:6.1666665]
+RecommendedItem[item:1642, value:5.4687104]
+RecommendedItem[item:1463, value:5.369398]
+RecommendedItem[item:1367, value:5.0635033]
+RecommendedItem[item:1293, value:5.061584]
+
+
+Recommendation of Top 5 movies for User 136
+RecommendedItem[item:1642, value:5.631446]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1449, value:5.3256745]
+RecommendedItem[item:1367, value:5.2017183]
+RecommendedItem[item:1398, value:5.193517]
+
+
+Recommendation of Top 5 movies for User 137
+RecommendedItem[item:1467, value:6.2354574]
+RecommendedItem[item:1449, value:6.2353215]
+RecommendedItem[item:1367, value:5.968341]
+RecommendedItem[item:1500, value:5.964466]
+RecommendedItem[item:1398, value:5.8575354]
+
+
+Recommendation of Top 5 movies for User 138
+RecommendedItem[item:1467, value:5.543295]
+RecommendedItem[item:1500, value:5.539504]
+RecommendedItem[item:1643, value:5.378708]
+RecommendedItem[item:1642, value:5.1982594]
+RecommendedItem[item:1449, value:5.137959]
+
+
+Recommendation of Top 5 movies for User 139
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1642, value:5.3208327]
+RecommendedItem[item:1449, value:5.170269]
+RecommendedItem[item:1367, value:5.0284777]
+RecommendedItem[item:1064, value:5.0]
+
+
+Recommendation of Top 5 movies for User 140
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1449, value:5.4359527]
+RecommendedItem[item:1642, value:5.315301]
+RecommendedItem[item:1398, value:5.269752]
+RecommendedItem[item:1639, value:5.1213202]
+
+
+Recommendation of Top 5 movies for User 141
+RecommendedItem[item:1500, value:5.5663524]
+RecommendedItem[item:1398, value:5.382689]
+RecommendedItem[item:1467, value:5.215058]
+RecommendedItem[item:1642, value:5.0624366]
+RecommendedItem[item:119, value:4.953066]
+
+
+Recommendation of Top 5 movies for User 142
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1642, value:5.0923495]
+RecommendedItem[item:1398, value:5.0869274]
+RecommendedItem[item:1367, value:5.0773463]
+RecommendedItem[item:1639, value:5.061068]
+
+
+Recommendation of Top 5 movies for User 143
+RecommendedItem[item:1500, value:7.0]
+RecommendedItem[item:1541, value:6.5]
+RecommendedItem[item:868, value:5.4007406]
+RecommendedItem[item:1418, value:5.264105]
+RecommendedItem[item:1189, value:5.2029223]
+
+
+Recommendation of Top 5 movies for User 144
+RecommendedItem[item:1500, value:5.4887333]
+RecommendedItem[item:1642, value:4.993559]
+RecommendedItem[item:1449, value:4.926746]
+RecommendedItem[item:1398, value:4.9181376]
+RecommendedItem[item:1467, value:4.889708]
+
+
+Recommendation of Top 5 movies for User 145
+RecommendedItem[item:1500, value:6.1883006]
+RecommendedItem[item:1467, value:5.4727464]
+RecommendedItem[item:1449, value:5.2740173]
+RecommendedItem[item:1064, value:5.12477]
+RecommendedItem[item:868, value:5.047629]
+
+
+Recommendation of Top 5 movies for User 146
+RecommendedItem[item:1398, value:5.115515]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:119, value:4.951019]
+RecommendedItem[item:1639, value:4.8811536]
+RecommendedItem[item:1189, value:4.830856]
+
+
+Recommendation of Top 5 movies for User 147
+RecommendedItem[item:1639, value:6.2180653]
+RecommendedItem[item:1293, value:5.320561]
+RecommendedItem[item:1064, value:5.2788787]
+RecommendedItem[item:1367, value:5.2331963]
+RecommendedItem[item:1398, value:5.226541]
+
+
+Recommendation of Top 5 movies for User 148
+RecommendedItem[item:1467, value:5.1733236]
+RecommendedItem[item:1500, value:5.1610007]
+RecommendedItem[item:1398, value:5.1529264]
+RecommendedItem[item:1080, value:5.123028]
+RecommendedItem[item:1646, value:5.0938363]
+
+
+Recommendation of Top 5 movies for User 149
+RecommendedItem[item:1064, value:5.1831827]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1449, value:4.9500318]
+RecommendedItem[item:119, value:4.7549133]
+RecommendedItem[item:1558, value:4.716306]
+
+
+Recommendation of Top 5 movies for User 150
+RecommendedItem[item:1662, value:5.5]
+RecommendedItem[item:1191, value:5.5]
+RecommendedItem[item:1293, value:5.418146]
+RecommendedItem[item:1463, value:5.343323]
+RecommendedItem[item:1612, value:5.293586]
+
+
+Recommendation of Top 5 movies for User 151
+RecommendedItem[item:1642, value:5.3329663]
+RecommendedItem[item:1643, value:5.2125907]
+RecommendedItem[item:1449, value:5.205213]
+RecommendedItem[item:1293, value:5.193126]
+RecommendedItem[item:1500, value:5.168117]
+
+
+Recommendation of Top 5 movies for User 152
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1467, value:6.007272]
+RecommendedItem[item:1332, value:6.0]
+RecommendedItem[item:1449, value:5.803211]
+RecommendedItem[item:1398, value:5.636888]
+
+
+Recommendation of Top 5 movies for User 153
+RecommendedItem[item:1463, value:5.3933983]
+RecommendedItem[item:1293, value:5.0251265]
+RecommendedItem[item:1191, value:4.898558]
+RecommendedItem[item:1080, value:4.473544]
+RecommendedItem[item:1612, value:4.349636]
+
+
+Recommendation of Top 5 movies for User 154
+RecommendedItem[item:1500, value:5.4161234]
+RecommendedItem[item:1398, value:5.095035]
+RecommendedItem[item:1642, value:5.0913997]
+RecommendedItem[item:1449, value:4.94579]
+RecommendedItem[item:1367, value:4.8682184]
+
+
+Recommendation of Top 5 movies for User 155
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:868, value:5.1663]
+RecommendedItem[item:1398, value:5.0]
+RecommendedItem[item:1396, value:5.0]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 156
+RecommendedItem[item:1500, value:5.5269117]
+RecommendedItem[item:1642, value:4.7432065]
+RecommendedItem[item:1449, value:4.711272]
+RecommendedItem[item:1643, value:4.4551725]
+RecommendedItem[item:1467, value:4.3817387]
+
+
+Recommendation of Top 5 movies for User 157
+RecommendedItem[item:1467, value:5.5825157]
+RecommendedItem[item:1304, value:5.5]
+RecommendedItem[item:1293, value:5.3703327]
+RecommendedItem[item:1449, value:5.3455667]
+RecommendedItem[item:851, value:5.3446903]
+
+
+Recommendation of Top 5 movies for User 158
+RecommendedItem[item:1500, value:5.4205937]
+RecommendedItem[item:1642, value:5.3744726]
+RecommendedItem[item:1398, value:5.372695]
+RecommendedItem[item:1449, value:5.26908]
+RecommendedItem[item:1080, value:5.2656198]
+
+
+Recommendation of Top 5 movies for User 159
+RecommendedItem[item:1467, value:5.3880043]
+RecommendedItem[item:1500, value:5.3487606]
+RecommendedItem[item:1398, value:5.25198]
+RecommendedItem[item:1449, value:5.1427617]
+RecommendedItem[item:1080, value:5.1213202]
+
+
+Recommendation of Top 5 movies for User 160
+RecommendedItem[item:1293, value:5.497843]
+RecommendedItem[item:1500, value:5.4054627]
+RecommendedItem[item:1642, value:5.1897736]
+RecommendedItem[item:1612, value:5.1558495]
+RecommendedItem[item:1467, value:5.09298]
+
+
+Recommendation of Top 5 movies for User 161
+RecommendedItem[item:1463, value:4.855296]
+RecommendedItem[item:1293, value:4.6601887]
+RecommendedItem[item:1612, value:4.5]
+RecommendedItem[item:1294, value:4.082331]
+RecommendedItem[item:1243, value:3.9337199]
+
+
+Recommendation of Top 5 movies for User 162
+RecommendedItem[item:1293, value:6.0]
+RecommendedItem[item:1398, value:5.253102]
+RecommendedItem[item:1467, value:5.0112205]
+RecommendedItem[item:1233, value:4.8774157]
+RecommendedItem[item:1643, value:4.8711967]
+
+
+Recommendation of Top 5 movies for User 163
+RecommendedItem[item:1500, value:5.7147374]
+RecommendedItem[item:1398, value:4.755262]
+RecommendedItem[item:1080, value:4.656854]
+RecommendedItem[item:1449, value:4.4898043]
+RecommendedItem[item:1367, value:4.4052258]
+
+
+Recommendation of Top 5 movies for User 164
+RecommendedItem[item:1467, value:6.181691]
+RecommendedItem[item:1080, value:5.959904]
+RecommendedItem[item:1463, value:5.829296]
+RecommendedItem[item:1293, value:5.813004]
+RecommendedItem[item:1612, value:5.8088593]
+
+
+Recommendation of Top 5 movies for User 165
+RecommendedItem[item:1642, value:5.5]
+RecommendedItem[item:1629, value:5.2110996]
+RecommendedItem[item:1080, value:5.2071066]
+RecommendedItem[item:1398, value:5.196529]
+RecommendedItem[item:1449, value:5.1793504]
+
+
+Recommendation of Top 5 movies for User 166
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1639, value:6.0]
+RecommendedItem[item:1189, value:5.3185563]
+RecommendedItem[item:868, value:5.0359645]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 167
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1643, value:5.498154]
+RecommendedItem[item:1398, value:5.2618246]
+RecommendedItem[item:1642, value:5.1968164]
+RecommendedItem[item:1449, value:5.044152]
+
+
+Recommendation of Top 5 movies for User 168
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1639, value:5.1810474]
+RecommendedItem[item:1191, value:5.1736054]
+RecommendedItem[item:1500, value:5.1348763]
+RecommendedItem[item:1467, value:5.1252007]
+
+
+Recommendation of Top 5 movies for User 169
+RecommendedItem[item:1080, value:6.016751]
+RecommendedItem[item:1463, value:5.9336476]
+RecommendedItem[item:1367, value:5.5660534]
+RecommendedItem[item:1646, value:5.5]
+RecommendedItem[item:1293, value:5.4469795]
+
+
+Recommendation of Top 5 movies for User 170
+RecommendedItem[item:1639, value:6.0]
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1449, value:5.9757004]
+RecommendedItem[item:1463, value:5.897912]
+RecommendedItem[item:868, value:5.6896296]
+
+
+Recommendation of Top 5 movies for User 171
+RecommendedItem[item:1398, value:4.952152]
+RecommendedItem[item:1639, value:4.7147374]
+RecommendedItem[item:1449, value:4.664686]
+RecommendedItem[item:119, value:4.5770316]
+RecommendedItem[item:1064, value:4.5690355]
+
+
+Recommendation of Top 5 movies for User 172
+RecommendedItem[item:1607, value:5.5]
+RecommendedItem[item:1293, value:5.0]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1233, value:5.0]
+RecommendedItem[item:1467, value:4.9775925]
+
+
+Recommendation of Top 5 movies for User 173
+RecommendedItem[item:1500, value:8.5]
+RecommendedItem[item:1449, value:5.8168445]
+RecommendedItem[item:1293, value:5.754602]
+RecommendedItem[item:1398, value:5.730248]
+RecommendedItem[item:1064, value:5.6835093]
+
+
+Recommendation of Top 5 movies for User 174
+RecommendedItem[item:1642, value:5.823425]
+RecommendedItem[item:1500, value:5.6273828]
+RecommendedItem[item:1449, value:5.513891]
+RecommendedItem[item:1080, value:5.4380045]
+RecommendedItem[item:1293, value:5.3761063]
+
+
+Recommendation of Top 5 movies for User 175
+RecommendedItem[item:1642, value:5.1726704]
+RecommendedItem[item:1389, value:5.037414]
+RecommendedItem[item:1237, value:5.0]
+RecommendedItem[item:1293, value:5.0]
+RecommendedItem[item:1449, value:4.9142084]
+
+
+Recommendation of Top 5 movies for User 176
+RecommendedItem[item:1467, value:5.4714046]
+RecommendedItem[item:1500, value:5.3398113]
+RecommendedItem[item:1449, value:4.972311]
+RecommendedItem[item:1398, value:4.923916]
+RecommendedItem[item:1367, value:4.8908954]
+
+
+Recommendation of Top 5 movies for User 177
+RecommendedItem[item:1500, value:5.8094234]
+RecommendedItem[item:1367, value:5.200236]
+RecommendedItem[item:1449, value:5.088431]
+RecommendedItem[item:1642, value:4.964633]
+RecommendedItem[item:1064, value:4.813555]
+
+
+Recommendation of Top 5 movies for User 178
+RecommendedItem[item:1500, value:5.7272496]
+RecommendedItem[item:1449, value:5.13135]
+RecommendedItem[item:1398, value:5.1313276]
+RecommendedItem[item:1467, value:5.0668426]
+RecommendedItem[item:1639, value:5.0203657]
+
+
+Recommendation of Top 5 movies for User 179
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1541, value:6.5]
+RecommendedItem[item:1064, value:5.0663524]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:868, value:4.9955654]
+
+
+Recommendation of Top 5 movies for User 180
+RecommendedItem[item:1463, value:7.0]
+RecommendedItem[item:1646, value:5.738796]
+RecommendedItem[item:1398, value:5.637517]
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1449, value:5.3591094]
+
+
+Recommendation of Top 5 movies for User 181
+RecommendedItem[item:1500, value:5.1666665]
+RecommendedItem[item:1467, value:3.690015]
+RecommendedItem[item:1064, value:3.5789735]
+RecommendedItem[item:1449, value:3.5459735]
+RecommendedItem[item:1450, value:3.5025086]
+
+
+Recommendation of Top 5 movies for User 182
+RecommendedItem[item:1500, value:5.3116765]
+RecommendedItem[item:1398, value:5.082059]
+RecommendedItem[item:1293, value:5.0]
+RecommendedItem[item:1306, value:5.0]
+RecommendedItem[item:1431, value:5.0]
+
+
+Recommendation of Top 5 movies for User 183
+RecommendedItem[item:1642, value:4.9443297]
+RecommendedItem[item:1449, value:4.7493343]
+RecommendedItem[item:1398, value:4.7147703]
+RecommendedItem[item:1463, value:4.7071066]
+RecommendedItem[item:1367, value:4.6201878]
+
+
+Recommendation of Top 5 movies for User 184
+RecommendedItem[item:1500, value:5.0419188]
+RecommendedItem[item:1642, value:5.0283732]
+RecommendedItem[item:1293, value:4.9814634]
+RecommendedItem[item:1449, value:4.87798]
+RecommendedItem[item:1367, value:4.843143]
+
+
+Recommendation of Top 5 movies for User 185
+RecommendedItem[item:1293, value:5.25]
+RecommendedItem[item:1643, value:5.1517415]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1449, value:4.9479227]
+RecommendedItem[item:1080, value:4.897203]
+
+
+Recommendation of Top 5 movies for User 186
+RecommendedItem[item:1449, value:5.3248453]
+RecommendedItem[item:1467, value:5.3025575]
+RecommendedItem[item:119, value:4.9671054]
+RecommendedItem[item:1064, value:4.9230204]
+RecommendedItem[item:1398, value:4.8657265]
+
+
+Recommendation of Top 5 movies for User 187
+RecommendedItem[item:1463, value:5.5]
+RecommendedItem[item:1500, value:5.321412]
+RecommendedItem[item:1643, value:5.260352]
+RecommendedItem[item:1642, value:5.2164044]
+RecommendedItem[item:1467, value:5.107231]
+
+
+Recommendation of Top 5 movies for User 188
+RecommendedItem[item:1293, value:5.363961]
+RecommendedItem[item:1367, value:5.2754197]
+RecommendedItem[item:1398, value:5.1637197]
+RecommendedItem[item:1642, value:5.159435]
+RecommendedItem[item:1449, value:5.099353]
+
+
+Recommendation of Top 5 movies for User 189
+RecommendedItem[item:1500, value:5.986434]
+RecommendedItem[item:1642, value:5.2394814]
+RecommendedItem[item:1449, value:5.10285]
+RecommendedItem[item:1643, value:4.9935336]
+RecommendedItem[item:1398, value:4.9906325]
+
+
+Recommendation of Top 5 movies for User 190
+RecommendedItem[item:1500, value:6.1666665]
+RecommendedItem[item:1467, value:5.0866885]
+RecommendedItem[item:851, value:4.913573]
+RecommendedItem[item:1449, value:4.88649]
+RecommendedItem[item:868, value:4.7798467]
+
+
+Recommendation of Top 5 movies for User 191
+RecommendedItem[item:1547, value:6.5]
+RecommendedItem[item:1450, value:6.5]
+RecommendedItem[item:1551, value:5.5]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:868, value:5.2488213]
+
+
+Recommendation of Top 5 movies for User 192
+RecommendedItem[item:1500, value:5.2928934]
+RecommendedItem[item:1293, value:5.2594285]
+RecommendedItem[item:1064, value:5.1384335]
+RecommendedItem[item:1467, value:5.0903254]
+RecommendedItem[item:1191, value:4.995094]
+
+
+Recommendation of Top 5 movies for User 193
+RecommendedItem[item:1398, value:4.930599]
+RecommendedItem[item:1642, value:4.859485]
+RecommendedItem[item:1467, value:4.8594756]
+RecommendedItem[item:1449, value:4.8212285]
+RecommendedItem[item:1367, value:4.5654798]
+
+
+Recommendation of Top 5 movies for User 194
+RecommendedItem[item:1500, value:4.9420114]
+RecommendedItem[item:1293, value:4.7071066]
+RecommendedItem[item:1367, value:4.4917846]
+RecommendedItem[item:1467, value:4.4452877]
+RecommendedItem[item:1642, value:4.362182]
+
+
+Recommendation of Top 5 movies for User 195
+RecommendedItem[item:1500, value:5.7071066]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1467, value:5.342708]
+RecommendedItem[item:1293, value:5.0305986]
+RecommendedItem[item:1449, value:4.9792986]
+
+
+Recommendation of Top 5 movies for User 196
+RecommendedItem[item:1467, value:5.253181]
+RecommendedItem[item:1191, value:5.1464467]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1398, value:4.945903]
+RecommendedItem[item:1449, value:4.9288383]
+
+
+Recommendation of Top 5 movies for User 197
+RecommendedItem[item:1500, value:5.6976495]
+RecommendedItem[item:1367, value:5.1953297]
+RecommendedItem[item:1449, value:5.1517134]
+RecommendedItem[item:1398, value:5.066236]
+RecommendedItem[item:1639, value:5.035209]
+
+
+Recommendation of Top 5 movies for User 198
+RecommendedItem[item:1500, value:4.9578066]
+RecommendedItem[item:1449, value:4.6831975]
+RecommendedItem[item:1398, value:4.583232]
+RecommendedItem[item:1642, value:4.561511]
+RecommendedItem[item:1367, value:4.5470433]
+
+
+Recommendation of Top 5 movies for User 199
+RecommendedItem[item:1656, value:5.0]
+RecommendedItem[item:1642, value:4.9337015]
+RecommendedItem[item:1449, value:4.911722]
+RecommendedItem[item:1293, value:4.840623]
+RecommendedItem[item:851, value:4.7700024]
+
+
+Recommendation of Top 5 movies for User 200
+RecommendedItem[item:1500, value:6.3068414]
+RecommendedItem[item:1449, value:5.632794]
+RecommendedItem[item:1467, value:5.6153746]
+RecommendedItem[item:1398, value:5.5794396]
+RecommendedItem[item:1293, value:5.5520353]
+
+
+Recommendation of Top 5 movies for User 201
+RecommendedItem[item:1500, value:4.7890596]
+RecommendedItem[item:1449, value:4.4974604]
+RecommendedItem[item:1367, value:4.4851613]
+RecommendedItem[item:1293, value:4.4489903]
+RecommendedItem[item:1467, value:4.376467]
+
+
+Recommendation of Top 5 movies for User 202
+RecommendedItem[item:1500, value:4.4655747]
+RecommendedItem[item:1293, value:4.1666665]
+RecommendedItem[item:1629, value:3.9116263]
+RecommendedItem[item:1612, value:3.767767]
+RecommendedItem[item:1449, value:3.6952417]
+
+
+Recommendation of Top 5 movies for User 203
+RecommendedItem[item:1500, value:5.2071066]
+RecommendedItem[item:1662, value:5.0]
+RecommendedItem[item:1449, value:4.796054]
+RecommendedItem[item:1642, value:4.7580276]
+RecommendedItem[item:1639, value:4.589159]
+
+
+Recommendation of Top 5 movies for User 204
+RecommendedItem[item:1500, value:5.2852626]
+RecommendedItem[item:1449, value:4.892017]
+RecommendedItem[item:1642, value:4.742011]
+RecommendedItem[item:1639, value:4.6818075]
+RecommendedItem[item:1524, value:4.5464196]
+
+
+Recommendation of Top 5 movies for User 205
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1541, value:5.0]
+RecommendedItem[item:1639, value:4.5857863]
+RecommendedItem[item:1293, value:4.386236]
+RecommendedItem[item:868, value:4.306177]
+
+
+Recommendation of Top 5 movies for User 206
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:5.273278]
+RecommendedItem[item:1398, value:5.178511]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1629, value:4.7071066]
+
+
+Recommendation of Top 5 movies for User 207
+RecommendedItem[item:1500, value:4.7539353]
+RecommendedItem[item:1293, value:4.5689335]
+RecommendedItem[item:1449, value:4.527002]
+RecommendedItem[item:1463, value:4.4931626]
+RecommendedItem[item:1398, value:4.444523]
+
+
+Recommendation of Top 5 movies for User 208
+RecommendedItem[item:1643, value:5.2974954]
+RecommendedItem[item:1367, value:5.0883884]
+RecommendedItem[item:1467, value:4.9923453]
+RecommendedItem[item:1642, value:4.9208784]
+RecommendedItem[item:1449, value:4.9013715]
+
+
+Recommendation of Top 5 movies for User 209
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1639, value:5.104871]
+RecommendedItem[item:1467, value:4.6394396]
+RecommendedItem[item:1080, value:4.5124335]
+RecommendedItem[item:1398, value:4.4955187]
+
+
+Recommendation of Top 5 movies for User 210
+RecommendedItem[item:1500, value:5.93144]
+RecommendedItem[item:1367, value:5.5308604]
+RecommendedItem[item:1398, value:5.454998]
+RecommendedItem[item:1642, value:5.4081335]
+RecommendedItem[item:1643, value:5.406047]
+
+
+Recommendation of Top 5 movies for User 211
+RecommendedItem[item:1080, value:4.942242]
+RecommendedItem[item:1449, value:4.565824]
+RecommendedItem[item:1656, value:4.5]
+RecommendedItem[item:1293, value:4.4730883]
+RecommendedItem[item:1524, value:4.119692]
+
+
+Recommendation of Top 5 movies for User 212
+RecommendedItem[item:1612, value:5.420447]
+RecommendedItem[item:1293, value:5.322106]
+RecommendedItem[item:1357, value:5.0]
+RecommendedItem[item:1449, value:4.822584]
+RecommendedItem[item:1398, value:4.8016047]
+
+
+Recommendation of Top 5 movies for User 213
+RecommendedItem[item:1500, value:5.6251125]
+RecommendedItem[item:1642, value:5.5415845]
+RecommendedItem[item:1467, value:5.457059]
+RecommendedItem[item:1449, value:5.4226446]
+RecommendedItem[item:1367, value:5.4070816]
+
+
+Recommendation of Top 5 movies for User 214
+RecommendedItem[item:1500, value:5.374816]
+RecommendedItem[item:1191, value:5.0422487]
+RecommendedItem[item:1367, value:5.0263243]
+RecommendedItem[item:1449, value:4.9073706]
+RecommendedItem[item:1467, value:4.73718]
+
+
+Recommendation of Top 5 movies for User 215
+RecommendedItem[item:1500, value:5.264218]
+RecommendedItem[item:1367, value:4.97013]
+RecommendedItem[item:1449, value:4.9549117]
+RecommendedItem[item:1467, value:4.8097887]
+RecommendedItem[item:1643, value:4.792049]
+
+
+Recommendation of Top 5 movies for User 216
+RecommendedItem[item:1500, value:5.4801497]
+RecommendedItem[item:1293, value:5.3906317]
+RecommendedItem[item:1642, value:5.2967663]
+RecommendedItem[item:1367, value:5.209977]
+RecommendedItem[item:1449, value:5.178745]
+
+
+Recommendation of Top 5 movies for User 217
+RecommendedItem[item:1398, value:4.8492785]
+RecommendedItem[item:1467, value:4.8307676]
+RecommendedItem[item:1449, value:4.79146]
+RecommendedItem[item:1367, value:4.750822]
+RecommendedItem[item:1500, value:4.6799483]
+
+
+Recommendation of Top 5 movies for User 218
+RecommendedItem[item:1367, value:5.043204]
+RecommendedItem[item:1642, value:4.8110876]
+RecommendedItem[item:1500, value:4.7]
+RecommendedItem[item:1398, value:4.662266]
+RecommendedItem[item:1368, value:4.62342]
+
+
+Recommendation of Top 5 movies for User 219
+RecommendedItem[item:868, value:5.55849]
+RecommendedItem[item:1449, value:5.390936]
+RecommendedItem[item:1639, value:5.245876]
+RecommendedItem[item:1155, value:5.226541]
+RecommendedItem[item:1368, value:5.2051883]
+
+
+Recommendation of Top 5 movies for User 220
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:868, value:5.6819677]
+RecommendedItem[item:1064, value:5.4753046]
+RecommendedItem[item:1293, value:5.422101]
+RecommendedItem[item:1449, value:5.304993]
+
+
+Recommendation of Top 5 movies for User 221
+RecommendedItem[item:1500, value:5.739101]
+RecommendedItem[item:1367, value:5.4084716]
+RecommendedItem[item:1467, value:5.2537985]
+RecommendedItem[item:1642, value:5.149459]
+RecommendedItem[item:1449, value:5.098368]
+
+
+Recommendation of Top 5 movies for User 222
+RecommendedItem[item:1500, value:5.5592933]
+RecommendedItem[item:1293, value:5.3080273]
+RecommendedItem[item:1467, value:5.0165343]
+RecommendedItem[item:1449, value:5.009366]
+RecommendedItem[item:1367, value:4.9954247]
+
+
+Recommendation of Top 5 movies for User 223
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1467, value:5.6735306]
+RecommendedItem[item:1449, value:4.968583]
+RecommendedItem[item:119, value:4.6976953]
+RecommendedItem[item:1398, value:4.6228304]
+
+
+Recommendation of Top 5 movies for User 224
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1463, value:4.6646934]
+RecommendedItem[item:868, value:4.5436764]
+RecommendedItem[item:1293, value:4.521854]
+RecommendedItem[item:1398, value:4.504313]
+
+
+Recommendation of Top 5 movies for User 225
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1367, value:5.893019]
+RecommendedItem[item:1361, value:5.8728447]
+RecommendedItem[item:1398, value:5.7580276]
+RecommendedItem[item:1643, value:5.5598154]
+
+
+Recommendation of Top 5 movies for User 226
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1463, value:5.362323]
+RecommendedItem[item:1612, value:5.1132703]
+RecommendedItem[item:1643, value:5.0030694]
+RecommendedItem[item:1175, value:4.946621]
+
+
+Recommendation of Top 5 movies for User 227
+RecommendedItem[item:1500, value:5.4046283]
+RecommendedItem[item:1642, value:4.959642]
+RecommendedItem[item:1191, value:4.93613]
+RecommendedItem[item:1064, value:4.9125495]
+RecommendedItem[item:1449, value:4.8307843]
+
+
+Recommendation of Top 5 movies for User 228
+RecommendedItem[item:1656, value:4.8333335]
+RecommendedItem[item:1293, value:4.8279943]
+RecommendedItem[item:1612, value:4.710855]
+RecommendedItem[item:1358, value:4.6402745]
+RecommendedItem[item:1500, value:4.6277394]
+
+
+Recommendation of Top 5 movies for User 229
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1541, value:5.5]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:868, value:4.8087444]
+RecommendedItem[item:1342, value:4.5]
+
+
+Recommendation of Top 5 movies for User 230
+RecommendedItem[item:1463, value:6.5]
+RecommendedItem[item:1500, value:5.5354075]
+RecommendedItem[item:1175, value:5.5]
+RecommendedItem[item:1642, value:5.476056]
+RecommendedItem[item:1294, value:5.428571]
+
+
+Recommendation of Top 5 movies for User 231
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1642, value:4.9309645]
+RecommendedItem[item:1080, value:4.773892]
+RecommendedItem[item:851, value:4.770019]
+RecommendedItem[item:1463, value:4.7588267]
+
+
+Recommendation of Top 5 movies for User 232
+RecommendedItem[item:1500, value:5.498509]
+RecommendedItem[item:1449, value:5.039444]
+RecommendedItem[item:1642, value:4.9866657]
+RecommendedItem[item:1367, value:4.740894]
+RecommendedItem[item:1467, value:4.7310143]
+
+
+Recommendation of Top 5 movies for User 233
+RecommendedItem[item:1500, value:5.80079]
+RecommendedItem[item:1293, value:5.5746717]
+RecommendedItem[item:1642, value:5.4300175]
+RecommendedItem[item:1398, value:5.3687425]
+RecommendedItem[item:1367, value:5.3595314]
+
+
+Recommendation of Top 5 movies for User 234
+RecommendedItem[item:1642, value:4.453871]
+RecommendedItem[item:1500, value:4.4500694]
+RecommendedItem[item:1367, value:4.1292915]
+RecommendedItem[item:1293, value:4.103377]
+RecommendedItem[item:1398, value:4.085245]
+
+
+Recommendation of Top 5 movies for User 235
+RecommendedItem[item:1643, value:5.0383196]
+RecommendedItem[item:1500, value:5.0382524]
+RecommendedItem[item:1642, value:5.0087466]
+RecommendedItem[item:1449, value:4.974042]
+RecommendedItem[item:1368, value:4.970766]
+
+
+Recommendation of Top 5 movies for User 236
+RecommendedItem[item:1293, value:5.532388]
+RecommendedItem[item:1656, value:5.1666665]
+RecommendedItem[item:1175, value:4.974011]
+RecommendedItem[item:1612, value:4.9346304]
+RecommendedItem[item:1642, value:4.8331304]
+
+
+Recommendation of Top 5 movies for User 237
+RecommendedItem[item:1500, value:5.4318647]
+RecommendedItem[item:1642, value:5.129874]
+RecommendedItem[item:1643, value:4.949092]
+RecommendedItem[item:1467, value:4.8752217]
+RecommendedItem[item:1368, value:4.850635]
+
+
+Recommendation of Top 5 movies for User 238
+RecommendedItem[item:1342, value:5.5]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1500, value:5.464466]
+RecommendedItem[item:1398, value:5.343849]
+RecommendedItem[item:851, value:5.309526]
+
+
+Recommendation of Top 5 movies for User 239
+RecommendedItem[item:1642, value:5.2372975]
+RecommendedItem[item:1367, value:5.2293305]
+RecommendedItem[item:1398, value:5.0121026]
+RecommendedItem[item:1449, value:5.011676]
+RecommendedItem[item:1500, value:5.005579]
+
+
+Recommendation of Top 5 movies for User 240
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:868, value:6.11191]
+RecommendedItem[item:1642, value:5.766552]
+RecommendedItem[item:1064, value:5.7394643]
+RecommendedItem[item:1367, value:5.6334047]
+
+
+Recommendation of Top 5 movies for User 241
+RecommendedItem[item:1500, value:7.0]
+RecommendedItem[item:1367, value:5.814919]
+RecommendedItem[item:1398, value:5.464466]
+RecommendedItem[item:1642, value:5.297504]
+RecommendedItem[item:1639, value:5.2928934]
+
+
+Recommendation of Top 5 movies for User 242
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:851, value:5.8786798]
+RecommendedItem[item:1293, value:5.7546406]
+RecommendedItem[item:1639, value:5.730248]
+RecommendedItem[item:1612, value:5.680392]
+
+
+Recommendation of Top 5 movies for User 243
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1612, value:5.416124]
+RecommendedItem[item:1175, value:5.3333335]
+RecommendedItem[item:1449, value:4.942605]
+
+
+Recommendation of Top 5 movies for User 244
+RecommendedItem[item:1293, value:5.921152]
+RecommendedItem[item:1500, value:5.765583]
+RecommendedItem[item:1662, value:5.5]
+RecommendedItem[item:1398, value:5.1800876]
+RecommendedItem[item:1463, value:5.1601095]
+
+
+Recommendation of Top 5 movies for User 245
+RecommendedItem[item:1463, value:5.7071066]
+RecommendedItem[item:1080, value:5.303684]
+RecommendedItem[item:1623, value:4.8527875]
+RecommendedItem[item:1449, value:4.7826076]
+RecommendedItem[item:1293, value:4.7071066]
+
+
+Recommendation of Top 5 movies for User 246
+RecommendedItem[item:1293, value:5.4142137]
+RecommendedItem[item:1612, value:5.10853]
+RecommendedItem[item:1642, value:4.9638157]
+RecommendedItem[item:1367, value:4.9584618]
+RecommendedItem[item:1449, value:4.864866]
+
+
+Recommendation of Top 5 movies for User 247
+RecommendedItem[item:1642, value:5.5844274]
+RecommendedItem[item:1064, value:5.2694135]
+RecommendedItem[item:1398, value:5.210201]
+RecommendedItem[item:1500, value:5.1939807]
+RecommendedItem[item:1449, value:5.180085]
+
+
+Recommendation of Top 5 movies for User 248
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:5.5]
+RecommendedItem[item:1467, value:4.900575]
+RecommendedItem[item:1367, value:4.873222]
+RecommendedItem[item:1463, value:4.7071066]
+
+
+Recommendation of Top 5 movies for User 249
+RecommendedItem[item:1449, value:5.413322]
+RecommendedItem[item:1642, value:5.409649]
+RecommendedItem[item:1467, value:5.404618]
+RecommendedItem[item:1367, value:5.370385]
+RecommendedItem[item:1398, value:5.305949]
+
+
+Recommendation of Top 5 movies for User 250
+RecommendedItem[item:1398, value:5.2016654]
+RecommendedItem[item:1642, value:5.147792]
+RecommendedItem[item:1449, value:5.044575]
+RecommendedItem[item:1467, value:4.980261]
+RecommendedItem[item:1500, value:4.9321384]
+
+
+Recommendation of Top 5 movies for User 251
+RecommendedItem[item:1500, value:5.747701]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1467, value:5.473573]
+RecommendedItem[item:1398, value:5.3047605]
+RecommendedItem[item:1449, value:5.304725]
+
+
+Recommendation of Top 5 movies for User 252
+RecommendedItem[item:1293, value:6.029437]
+RecommendedItem[item:1612, value:5.7801948]
+RecommendedItem[item:1064, value:5.6666665]
+RecommendedItem[item:1449, value:5.6368275]
+RecommendedItem[item:1463, value:5.617105]
+
+
+Recommendation of Top 5 movies for User 253
+RecommendedItem[item:1500, value:5.6506696]
+RecommendedItem[item:1080, value:5.4297323]
+RecommendedItem[item:1642, value:5.261602]
+RecommendedItem[item:1449, value:5.2262616]
+RecommendedItem[item:1398, value:5.1727114]
+
+
+Recommendation of Top 5 movies for User 254
+RecommendedItem[item:1500, value:5.8925567]
+RecommendedItem[item:1398, value:4.9481664]
+RecommendedItem[item:1080, value:4.796509]
+RecommendedItem[item:1639, value:4.7798405]
+RecommendedItem[item:1367, value:4.7611814]
+
+
+Recommendation of Top 5 movies for User 255
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1467, value:5.0575767]
+RecommendedItem[item:1463, value:4.627845]
+RecommendedItem[item:868, value:4.5888906]
+RecommendedItem[item:1398, value:4.473164]
+
+
+Recommendation of Top 5 movies for User 256
+RecommendedItem[item:1463, value:5.979609]
+RecommendedItem[item:1612, value:5.7123685]
+RecommendedItem[item:1642, value:5.695771]
+RecommendedItem[item:1467, value:5.606639]
+RecommendedItem[item:1449, value:5.5929656]
+
+
+Recommendation of Top 5 movies for User 257
+RecommendedItem[item:1500, value:5.7071066]
+RecommendedItem[item:1449, value:5.3308682]
+RecommendedItem[item:1064, value:5.262907]
+RecommendedItem[item:1467, value:5.227671]
+RecommendedItem[item:1293, value:5.204878]
+
+
+Recommendation of Top 5 movies for User 258
+RecommendedItem[item:868, value:5.6832795]
+RecommendedItem[item:1642, value:5.6588626]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1342, value:5.5]
+RecommendedItem[item:1449, value:5.4719114]
+
+
+Recommendation of Top 5 movies for User 259
+RecommendedItem[item:1500, value:5.650585]
+RecommendedItem[item:1449, value:5.268894]
+RecommendedItem[item:1467, value:5.245659]
+RecommendedItem[item:1398, value:5.117872]
+RecommendedItem[item:1293, value:5.0373635]
+
+
+Recommendation of Top 5 movies for User 260
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1449, value:5.3682923]
+RecommendedItem[item:1080, value:5.357176]
+RecommendedItem[item:1656, value:5.343146]
+RecommendedItem[item:1642, value:5.008446]
+
+
+Recommendation of Top 5 movies for User 261
+RecommendedItem[item:868, value:7.1011214]
+RecommendedItem[item:1500, value:7.0]
+RecommendedItem[item:1467, value:6.5]
+RecommendedItem[item:1080, value:6.2180653]
+RecommendedItem[item:1293, value:6.141379]
+
+
+Recommendation of Top 5 movies for User 262
+RecommendedItem[item:1642, value:4.6009955]
+RecommendedItem[item:1449, value:4.55608]
+RecommendedItem[item:1398, value:4.506344]
+RecommendedItem[item:1500, value:4.3657675]
+RecommendedItem[item:1639, value:4.336385]
+
+
+Recommendation of Top 5 movies for User 263
+RecommendedItem[item:1500, value:5.5270195]
+RecommendedItem[item:1467, value:5.378187]
+RecommendedItem[item:1642, value:5.3501754]
+RecommendedItem[item:1367, value:5.242427]
+RecommendedItem[item:1449, value:5.20619]
+
+
+Recommendation of Top 5 movies for User 264
+RecommendedItem[item:1500, value:6.372739]
+RecommendedItem[item:1642, value:5.6416564]
+RecommendedItem[item:1467, value:5.5930405]
+RecommendedItem[item:1293, value:5.5469184]
+RecommendedItem[item:1449, value:5.5295186]
+
+
+Recommendation of Top 5 movies for User 265
+RecommendedItem[item:1463, value:5.7478886]
+RecommendedItem[item:1293, value:5.388683]
+RecommendedItem[item:1500, value:5.3786798]
+RecommendedItem[item:1398, value:5.2581816]
+RecommendedItem[item:1467, value:5.1255827]
+
+
+Recommendation of Top 5 movies for User 266
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1080, value:4.715482]
+RecommendedItem[item:1449, value:4.6969895]
+RecommendedItem[item:1642, value:4.5547323]
+RecommendedItem[item:1064, value:4.5031404]
+
+
+Recommendation of Top 5 movies for User 267
+RecommendedItem[item:1293, value:6.0]
+RecommendedItem[item:1500, value:5.7445207]
+RecommendedItem[item:1367, value:5.6397576]
+RecommendedItem[item:1642, value:5.6260986]
+RecommendedItem[item:1449, value:5.547184]
+
+
+Recommendation of Top 5 movies for User 268
+RecommendedItem[item:1500, value:5.2047896]
+RecommendedItem[item:1293, value:5.1967545]
+RecommendedItem[item:1642, value:4.9076157]
+RecommendedItem[item:1662, value:4.855788]
+RecommendedItem[item:1367, value:4.7574787]
+
+
+Recommendation of Top 5 movies for User 269
+RecommendedItem[item:1367, value:4.5544386]
+RecommendedItem[item:1642, value:4.4648404]
+RecommendedItem[item:1449, value:4.39427]
+RecommendedItem[item:1368, value:4.3021693]
+RecommendedItem[item:1398, value:4.191158]
+
+
+Recommendation of Top 5 movies for User 270
+RecommendedItem[item:1500, value:6.3786798]
+RecommendedItem[item:1367, value:5.851335]
+RecommendedItem[item:1449, value:5.792081]
+RecommendedItem[item:1642, value:5.7521853]
+RecommendedItem[item:868, value:5.7474546]
+
+
+Recommendation of Top 5 movies for User 271
+RecommendedItem[item:1500, value:5.370009]
+RecommendedItem[item:1467, value:5.018382]
+RecommendedItem[item:1398, value:4.937227]
+RecommendedItem[item:1642, value:4.9283795]
+RecommendedItem[item:1367, value:4.849448]
+
+
+Recommendation of Top 5 movies for User 272
+RecommendedItem[item:1367, value:5.9813046]
+RecommendedItem[item:1500, value:5.68994]
+RecommendedItem[item:1398, value:5.621796]
+RecommendedItem[item:1642, value:5.6176777]
+RecommendedItem[item:1643, value:5.54464]
+
+
+Recommendation of Top 5 movies for User 273
+RecommendedItem[item:1396, value:5.2284884]
+RecommendedItem[item:1629, value:5.2180653]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1367, value:4.9732375]
+
+
+Recommendation of Top 5 movies for User 274
+RecommendedItem[item:1500, value:6.1132703]
+RecommendedItem[item:1191, value:5.9679923]
+RecommendedItem[item:1467, value:5.8743463]
+RecommendedItem[item:1449, value:5.780026]
+RecommendedItem[item:1642, value:5.7615395]
+
+
+Recommendation of Top 5 movies for User 275
+RecommendedItem[item:1500, value:5.4084086]
+RecommendedItem[item:1463, value:5.369398]
+RecommendedItem[item:1293, value:4.964466]
+RecommendedItem[item:1080, value:4.9591594]
+RecommendedItem[item:1467, value:4.6352572]
+
+
+Recommendation of Top 5 movies for User 276
+RecommendedItem[item:1500, value:6.0443573]
+RecommendedItem[item:1449, value:5.4238386]
+RecommendedItem[item:1367, value:5.3311663]
+RecommendedItem[item:1467, value:5.3311515]
+RecommendedItem[item:1398, value:5.286477]
+
+
+Recommendation of Top 5 movies for User 277
+RecommendedItem[item:1293, value:5.1348763]
+RecommendedItem[item:1191, value:4.9142137]
+RecommendedItem[item:1449, value:4.772011]
+RecommendedItem[item:851, value:4.6844187]
+RecommendedItem[item:626, value:4.5398607]
+
+
+Recommendation of Top 5 movies for User 278
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1467, value:5.815301]
+RecommendedItem[item:1398, value:5.5496473]
+RecommendedItem[item:1342, value:5.5]
+RecommendedItem[item:868, value:5.3720927]
+
+
+Recommendation of Top 5 movies for User 279
+RecommendedItem[item:1293, value:5.3949]
+RecommendedItem[item:1191, value:5.3007083]
+RecommendedItem[item:1612, value:4.7901597]
+RecommendedItem[item:1367, value:4.6882944]
+RecommendedItem[item:1449, value:4.6288676]
+
+
+Recommendation of Top 5 movies for User 280
+RecommendedItem[item:1367, value:5.3560762]
+RecommendedItem[item:1449, value:5.0410123]
+RecommendedItem[item:1467, value:4.999271]
+RecommendedItem[item:1642, value:4.9720035]
+RecommendedItem[item:1293, value:4.92395]
+
+
+Recommendation of Top 5 movies for User 281
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:5.6204896]
+RecommendedItem[item:1449, value:5.5877795]
+RecommendedItem[item:1535, value:5.1715727]
+RecommendedItem[item:1463, value:5.0083256]
+
+
+Recommendation of Top 5 movies for User 282
+RecommendedItem[item:1500, value:7.0]
+RecommendedItem[item:1558, value:6.16526]
+RecommendedItem[item:1449, value:5.6669645]
+RecommendedItem[item:1064, value:5.5139003]
+RecommendedItem[item:868, value:5.3893585]
+
+
+Recommendation of Top 5 movies for User 283
+RecommendedItem[item:1500, value:5.797686]
+RecommendedItem[item:1449, value:5.5122237]
+RecommendedItem[item:1642, value:5.4873047]
+RecommendedItem[item:1467, value:5.4173093]
+RecommendedItem[item:1639, value:5.410943]
+
+
+Recommendation of Top 5 movies for User 284
+RecommendedItem[item:1398, value:5.1633635]
+RecommendedItem[item:1396, value:5.1357794]
+RecommendedItem[item:1449, value:5.081844]
+RecommendedItem[item:1293, value:5.015156]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 285
+RecommendedItem[item:1500, value:5.7819347]
+RecommendedItem[item:1293, value:5.0507336]
+RecommendedItem[item:1449, value:4.8379664]
+RecommendedItem[item:1367, value:4.7819138]
+RecommendedItem[item:1612, value:4.6009803]
+
+
+Recommendation of Top 5 movies for User 286
+RecommendedItem[item:1612, value:5.547447]
+RecommendedItem[item:1293, value:5.5466313]
+RecommendedItem[item:1642, value:5.282622]
+RecommendedItem[item:1500, value:5.137621]
+RecommendedItem[item:1463, value:5.1195955]
+
+
+Recommendation of Top 5 movies for User 287
+RecommendedItem[item:1500, value:6.3842196]
+RecommendedItem[item:1449, value:5.601502]
+RecommendedItem[item:1398, value:5.523752]
+RecommendedItem[item:1467, value:5.4646955]
+RecommendedItem[item:1293, value:5.324016]
+
+
+Recommendation of Top 5 movies for User 288
+RecommendedItem[item:1500, value:5.2361045]
+RecommendedItem[item:1367, value:5.1617]
+RecommendedItem[item:1293, value:5.088248]
+RecommendedItem[item:1656, value:5.0]
+RecommendedItem[item:1398, value:4.9635854]
+
+
+Recommendation of Top 5 movies for User 289
+RecommendedItem[item:1550, value:6.0]
+RecommendedItem[item:1064, value:6.0]
+RecommendedItem[item:1611, value:5.5]
+RecommendedItem[item:1467, value:5.0585785]
+RecommendedItem[item:1500, value:5.0]
+
+
+Recommendation of Top 5 movies for User 290
+RecommendedItem[item:1080, value:5.8374777]
+RecommendedItem[item:1612, value:5.5]
+RecommendedItem[item:1500, value:5.0157413]
+RecommendedItem[item:1467, value:4.9895654]
+RecommendedItem[item:1398, value:4.979846]
+
+
+Recommendation of Top 5 movies for User 291
+RecommendedItem[item:1500, value:6.213341]
+RecommendedItem[item:1463, value:6.1464467]
+RecommendedItem[item:1467, value:5.5880976]
+RecommendedItem[item:1449, value:5.571717]
+RecommendedItem[item:1293, value:5.503707]
+
+
+Recommendation of Top 5 movies for User 292
+RecommendedItem[item:1500, value:5.8941264]
+RecommendedItem[item:1642, value:5.491315]
+RecommendedItem[item:1467, value:5.4268775]
+RecommendedItem[item:1449, value:5.3654733]
+RecommendedItem[item:1398, value:5.2529855]
+
+
+Recommendation of Top 5 movies for User 293
+RecommendedItem[item:1500, value:5.147859]
+RecommendedItem[item:1449, value:4.6434665]
+RecommendedItem[item:1642, value:4.608058]
+RecommendedItem[item:1467, value:4.5272026]
+RecommendedItem[item:1398, value:4.478718]
+
+
+Recommendation of Top 5 movies for User 294
+RecommendedItem[item:1500, value:6.3398113]
+RecommendedItem[item:1449, value:5.347158]
+RecommendedItem[item:1467, value:5.344611]
+RecommendedItem[item:868, value:5.262326]
+RecommendedItem[item:1642, value:5.184869]
+
+
+Recommendation of Top 5 movies for User 295
+RecommendedItem[item:1080, value:5.8137937]
+RecommendedItem[item:1642, value:5.6789556]
+RecommendedItem[item:1449, value:5.5997562]
+RecommendedItem[item:1367, value:5.575298]
+RecommendedItem[item:1398, value:5.536884]
+
+
+Recommendation of Top 5 movies for User 296
+RecommendedItem[item:1500, value:5.687089]
+RecommendedItem[item:1293, value:5.4595494]
+RecommendedItem[item:1398, value:5.4575295]
+RecommendedItem[item:1612, value:5.4461474]
+RecommendedItem[item:1449, value:5.3787966]
+
+
+Recommendation of Top 5 movies for User 297
+RecommendedItem[item:1367, value:4.9608054]
+RecommendedItem[item:1642, value:4.8919945]
+RecommendedItem[item:1398, value:4.8726563]
+RecommendedItem[item:1293, value:4.8519444]
+RecommendedItem[item:1467, value:4.8268366]
+
+
+Recommendation of Top 5 movies for User 298
+RecommendedItem[item:1293, value:6.0]
+RecommendedItem[item:1612, value:5.3592453]
+RecommendedItem[item:1500, value:5.34521]
+RecommendedItem[item:1467, value:5.275033]
+RecommendedItem[item:1080, value:5.248078]
+
+
+Recommendation of Top 5 movies for User 299
+RecommendedItem[item:1500, value:4.9824905]
+RecommendedItem[item:1642, value:4.7571373]
+RecommendedItem[item:1449, value:4.646952]
+RecommendedItem[item:1367, value:4.6323123]
+RecommendedItem[item:1398, value:4.496351]
+
+
+Recommendation of Top 5 movies for User 300
+RecommendedItem[item:1463, value:5.7383018]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1293, value:5.0200276]
+RecommendedItem[item:1368, value:4.8847847]
+RecommendedItem[item:1449, value:4.846131]
+
+
+Recommendation of Top 5 movies for User 301
+RecommendedItem[item:1500, value:5.687653]
+RecommendedItem[item:1293, value:5.2797813]
+RecommendedItem[item:1367, value:5.0270176]
+RecommendedItem[item:1656, value:5.0]
+RecommendedItem[item:1449, value:4.8934503]
+
+
+Recommendation of Top 5 movies for User 302
+RecommendedItem[item:1398, value:5.0]
+RecommendedItem[item:1467, value:5.0]
+RecommendedItem[item:1463, value:4.562955]
+RecommendedItem[item:1500, value:4.5]
+RecommendedItem[item:1497, value:4.5]
+
+
+Recommendation of Top 5 movies for User 303
+RecommendedItem[item:1500, value:5.8740354]
+RecommendedItem[item:1449, value:5.4110007]
+RecommendedItem[item:1398, value:5.388581]
+RecommendedItem[item:1467, value:5.356462]
+RecommendedItem[item:1642, value:5.2709184]
+
+
+Recommendation of Top 5 movies for User 304
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1467, value:5.5]
+RecommendedItem[item:1639, value:5.445903]
+RecommendedItem[item:868, value:5.332497]
+RecommendedItem[item:1463, value:5.060806]
+
+
+Recommendation of Top 5 movies for User 305
+RecommendedItem[item:1642, value:4.729112]
+RecommendedItem[item:1367, value:4.6070127]
+RecommendedItem[item:1398, value:4.5962424]
+RecommendedItem[item:1449, value:4.4521003]
+RecommendedItem[item:1500, value:4.3795643]
+
+
+Recommendation of Top 5 movies for User 306
+RecommendedItem[item:1467, value:5.5857863]
+RecommendedItem[item:1642, value:5.0245533]
+RecommendedItem[item:1449, value:5.0100746]
+RecommendedItem[item:1189, value:5.0026293]
+RecommendedItem[item:1293, value:5.0]
+
+
+Recommendation of Top 5 movies for User 307
+RecommendedItem[item:1293, value:5.34223]
+RecommendedItem[item:1367, value:5.1167197]
+RecommendedItem[item:1642, value:5.014905]
+RecommendedItem[item:1449, value:5.0108056]
+RecommendedItem[item:1398, value:4.960178]
+
+
+Recommendation of Top 5 movies for User 308
+RecommendedItem[item:1500, value:5.81932]
+RecommendedItem[item:1367, value:5.0110683]
+RecommendedItem[item:1293, value:4.975607]
+RecommendedItem[item:1467, value:4.9586725]
+RecommendedItem[item:1449, value:4.911508]
+
+
+Recommendation of Top 5 movies for User 309
+RecommendedItem[item:1398, value:6.445903]
+RecommendedItem[item:1629, value:6.1464467]
+RecommendedItem[item:1064, value:5.539504]
+RecommendedItem[item:1488, value:5.5]
+RecommendedItem[item:1467, value:5.0]
+
+
+Recommendation of Top 5 movies for User 310
+RecommendedItem[item:1642, value:5.830494]
+RecommendedItem[item:1449, value:5.572357]
+RecommendedItem[item:1367, value:5.4907637]
+RecommendedItem[item:1398, value:5.3943944]
+RecommendedItem[item:1639, value:5.3363323]
+
+
+Recommendation of Top 5 movies for User 311
+RecommendedItem[item:1500, value:5.6928635]
+RecommendedItem[item:1656, value:5.2754364]
+RecommendedItem[item:1643, value:5.105605]
+RecommendedItem[item:1449, value:5.0570307]
+RecommendedItem[item:1367, value:5.038368]
+
+
+Recommendation of Top 5 movies for User 312
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:6.0]
+RecommendedItem[item:1500, value:5.535066]
+RecommendedItem[item:1191, value:5.5]
+RecommendedItem[item:1642, value:5.379521]
+
+
+Recommendation of Top 5 movies for User 313
+RecommendedItem[item:1463, value:5.6464467]
+RecommendedItem[item:1500, value:5.4102545]
+RecommendedItem[item:1367, value:4.959232]
+RecommendedItem[item:1643, value:4.9014583]
+RecommendedItem[item:1642, value:4.894105]
+
+
+Recommendation of Top 5 movies for User 314
+RecommendedItem[item:1463, value:6.48874]
+RecommendedItem[item:1500, value:6.400354]
+RecommendedItem[item:1293, value:6.1811914]
+RecommendedItem[item:1612, value:5.9065175]
+RecommendedItem[item:1642, value:5.6075935]
+
+
+Recommendation of Top 5 movies for User 315
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1367, value:5.318617]
+RecommendedItem[item:1642, value:5.3153553]
+RecommendedItem[item:1467, value:5.121065]
+RecommendedItem[item:1398, value:5.1127944]
+
+
+Recommendation of Top 5 movies for User 316
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:5.554097]
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1646, value:4.9223194]
+RecommendedItem[item:1642, value:4.894869]
+
+
+Recommendation of Top 5 movies for User 317
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:868, value:5.709914]
+RecommendedItem[item:1642, value:5.5]
+RecommendedItem[item:1541, value:5.5]
+RecommendedItem[item:701, value:5.315819]
+
+
+Recommendation of Top 5 movies for User 318
+RecommendedItem[item:1293, value:5.357455]
+RecommendedItem[item:1500, value:5.2162786]
+RecommendedItem[item:1467, value:5.084694]
+RecommendedItem[item:1449, value:5.0516033]
+RecommendedItem[item:1643, value:5.019197]
+
+
+Recommendation of Top 5 movies for User 319
+RecommendedItem[item:1642, value:5.0266266]
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1360, value:5.0]
+RecommendedItem[item:1449, value:4.9732447]
+RecommendedItem[item:1293, value:4.8569493]
+
+
+Recommendation of Top 5 movies for User 320
+RecommendedItem[item:1500, value:5.9369507]
+RecommendedItem[item:1449, value:5.4487915]
+RecommendedItem[item:868, value:5.223701]
+RecommendedItem[item:1467, value:5.21699]
+RecommendedItem[item:1642, value:5.205091]
+
+
+Recommendation of Top 5 movies for User 321
+RecommendedItem[item:1612, value:5.5]
+RecommendedItem[item:1293, value:5.5]
+RecommendedItem[item:1175, value:5.3333335]
+RecommendedItem[item:1191, value:5.0]
+RecommendedItem[item:1643, value:4.7646422]
+
+
+Recommendation of Top 5 movies for User 322
+RecommendedItem[item:1500, value:6.6541953]
+RecommendedItem[item:1642, value:5.1516504]
+RecommendedItem[item:1367, value:4.9929166]
+RecommendedItem[item:1449, value:4.9817595]
+RecommendedItem[item:1398, value:4.9344797]
+
+
+Recommendation of Top 5 movies for User 323
+RecommendedItem[item:1500, value:5.7574987]
+RecommendedItem[item:1398, value:5.2346907]
+RecommendedItem[item:1449, value:5.0517907]
+RecommendedItem[item:1467, value:4.9952817]
+RecommendedItem[item:1642, value:4.9030194]
+
+
+Recommendation of Top 5 movies for User 324
+RecommendedItem[item:1500, value:7.4775925]
+RecommendedItem[item:1463, value:5.763276]
+RecommendedItem[item:1293, value:5.6686916]
+RecommendedItem[item:1449, value:5.6530085]
+RecommendedItem[item:1064, value:5.606587]
+
+
+Recommendation of Top 5 movies for User 325
+RecommendedItem[item:1449, value:4.523377]
+RecommendedItem[item:1642, value:4.494463]
+RecommendedItem[item:1367, value:4.4286103]
+RecommendedItem[item:1643, value:4.2441]
+RecommendedItem[item:1368, value:4.2371993]
+
+
+Recommendation of Top 5 movies for User 326
+RecommendedItem[item:1191, value:5.5]
+RecommendedItem[item:1293, value:5.0]
+RecommendedItem[item:1643, value:4.7615504]
+RecommendedItem[item:1500, value:4.7015233]
+RecommendedItem[item:1237, value:4.5]
+
+
+Recommendation of Top 5 movies for User 327
+RecommendedItem[item:1500, value:4.8128824]
+RecommendedItem[item:1449, value:4.6096187]
+RecommendedItem[item:1642, value:4.525327]
+RecommendedItem[item:1467, value:4.4992332]
+RecommendedItem[item:1367, value:4.392673]
+
+
+Recommendation of Top 5 movies for User 328
+RecommendedItem[item:1467, value:5.236699]
+RecommendedItem[item:1500, value:5.0590706]
+RecommendedItem[item:1398, value:5.00514]
+RecommendedItem[item:1642, value:4.880965]
+RecommendedItem[item:1449, value:4.87288]
+
+
+Recommendation of Top 5 movies for User 329
+RecommendedItem[item:1500, value:4.815301]
+RecommendedItem[item:1642, value:4.7716737]
+RecommendedItem[item:1467, value:4.676777]
+RecommendedItem[item:1398, value:4.6625786]
+RecommendedItem[item:1449, value:4.551308]
+
+
+Recommendation of Top 5 movies for User 330
+RecommendedItem[item:1293, value:6.5]
+RecommendedItem[item:1612, value:6.5]
+RecommendedItem[item:1175, value:6.3333335]
+RecommendedItem[item:1367, value:5.971575]
+RecommendedItem[item:1080, value:5.8355155]
+
+
+Recommendation of Top 5 movies for User 331
+RecommendedItem[item:1293, value:6.1450562]
+RecommendedItem[item:1500, value:5.7695527]
+RecommendedItem[item:1612, value:5.760691]
+RecommendedItem[item:1617, value:5.071945]
+RecommendedItem[item:1367, value:5.06625]
+
+
+Recommendation of Top 5 movies for User 332
+RecommendedItem[item:1500, value:6.4205937]
+RecommendedItem[item:1463, value:5.945561]
+RecommendedItem[item:1449, value:5.911105]
+RecommendedItem[item:1293, value:5.8534718]
+RecommendedItem[item:1398, value:5.8409233]
+
+
+Recommendation of Top 5 movies for User 333
+RecommendedItem[item:1617, value:5.5]
+RecommendedItem[item:1642, value:5.2071066]
+RecommendedItem[item:1500, value:5.023141]
+RecommendedItem[item:1191, value:5.0]
+RecommendedItem[item:1293, value:4.982233]
+
+
+Recommendation of Top 5 movies for User 334
+RecommendedItem[item:1500, value:4.8433776]
+RecommendedItem[item:1449, value:4.7941713]
+RecommendedItem[item:1367, value:4.730102]
+RecommendedItem[item:1642, value:4.6643167]
+RecommendedItem[item:1467, value:4.6305532]
+
+
+Recommendation of Top 5 movies for User 335
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1639, value:6.363961]
+RecommendedItem[item:1541, value:5.5]
+RecommendedItem[item:1189, value:5.360793]
+RecommendedItem[item:1449, value:5.2783113]
+
+
+Recommendation of Top 5 movies for User 336
+RecommendedItem[item:1500, value:5.702314]
+RecommendedItem[item:1449, value:4.9158435]
+RecommendedItem[item:1293, value:4.8786798]
+RecommendedItem[item:1463, value:4.7928934]
+RecommendedItem[item:1467, value:4.773803]
+
+
+Recommendation of Top 5 movies for User 337
+RecommendedItem[item:1080, value:5.7546406]
+RecommendedItem[item:1642, value:5.6519866]
+RecommendedItem[item:1191, value:5.5]
+RecommendedItem[item:1449, value:5.4495826]
+RecommendedItem[item:1524, value:5.1883698]
+
+
+Recommendation of Top 5 movies for User 338
+RecommendedItem[item:1293, value:5.483637]
+RecommendedItem[item:1642, value:5.2745953]
+RecommendedItem[item:1398, value:4.9252267]
+RecommendedItem[item:1367, value:4.921904]
+RecommendedItem[item:1646, value:4.9128027]
+
+
+Recommendation of Top 5 movies for User 339
+RecommendedItem[item:1642, value:5.5175076]
+RecommendedItem[item:1367, value:5.375197]
+RecommendedItem[item:1449, value:5.26721]
+RecommendedItem[item:1500, value:5.2090964]
+RecommendedItem[item:1368, value:5.194883]
+
+
+Recommendation of Top 5 movies for User 340
+RecommendedItem[item:1642, value:5.956157]
+RecommendedItem[item:1398, value:5.5588503]
+RecommendedItem[item:1643, value:5.3286986]
+RecommendedItem[item:1658, value:5.1907434]
+RecommendedItem[item:1368, value:5.169281]
+
+
+Recommendation of Top 5 movies for User 341
+RecommendedItem[item:1449, value:6.5]
+RecommendedItem[item:1080, value:6.5]
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1642, value:6.464466]
+RecommendedItem[item:868, value:6.3033648]
+
+
+Recommendation of Top 5 movies for User 342
+RecommendedItem[item:1500, value:5.785714]
+RecommendedItem[item:1293, value:5.703506]
+RecommendedItem[item:1612, value:5.501132]
+RecommendedItem[item:1449, value:4.857155]
+RecommendedItem[item:1463, value:4.8331795]
+
+
+Recommendation of Top 5 movies for User 343
+RecommendedItem[item:1500, value:5.883969]
+RecommendedItem[item:1642, value:5.422312]
+RecommendedItem[item:1449, value:5.343774]
+RecommendedItem[item:1398, value:5.295342]
+RecommendedItem[item:1367, value:5.168332]
+
+
+Recommendation of Top 5 movies for User 344
+RecommendedItem[item:1500, value:5.7557855]
+RecommendedItem[item:1642, value:5.1015415]
+RecommendedItem[item:1449, value:5.0666404]
+RecommendedItem[item:1367, value:4.9879637]
+RecommendedItem[item:1398, value:4.876743]
+
+
+Recommendation of Top 5 movies for User 345
+RecommendedItem[item:1500, value:5.770869]
+RecommendedItem[item:1642, value:5.3448963]
+RecommendedItem[item:1449, value:5.221139]
+RecommendedItem[item:1398, value:5.032815]
+RecommendedItem[item:1367, value:4.953095]
+
+
+Recommendation of Top 5 movies for User 346
+RecommendedItem[item:1500, value:5.6412845]
+RecommendedItem[item:1449, value:5.011564]
+RecommendedItem[item:1191, value:5.0068784]
+RecommendedItem[item:1642, value:4.889785]
+RecommendedItem[item:1367, value:4.837697]
+
+
+Recommendation of Top 5 movies for User 347
+RecommendedItem[item:1500, value:5.553233]
+RecommendedItem[item:1467, value:5.2792697]
+RecommendedItem[item:1449, value:5.188554]
+RecommendedItem[item:1612, value:4.9577823]
+RecommendedItem[item:1639, value:4.849622]
+
+
+Recommendation of Top 5 movies for User 348
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1642, value:5.9132524]
+RecommendedItem[item:1293, value:5.8460608]
+RecommendedItem[item:1467, value:5.7042723]
+RecommendedItem[item:1612, value:5.518162]
+
+
+Recommendation of Top 5 movies for User 349
+RecommendedItem[item:1500, value:5.0]
+RecommendedItem[item:1449, value:4.8911943]
+RecommendedItem[item:1642, value:4.75]
+RecommendedItem[item:1558, value:4.648817]
+RecommendedItem[item:1467, value:4.6078124]
+
+
+Recommendation of Top 5 movies for User 350
+RecommendedItem[item:1332, value:6.0]
+RecommendedItem[item:1500, value:5.574155]
+RecommendedItem[item:1368, value:5.558406]
+RecommendedItem[item:1342, value:5.5]
+RecommendedItem[item:1656, value:5.5]
+
+
+Recommendation of Top 5 movies for User 351
+RecommendedItem[item:1629, value:6.037414]
+RecommendedItem[item:868, value:5.9777975]
+RecommendedItem[item:1064, value:5.902033]
+RecommendedItem[item:1639, value:5.820026]
+RecommendedItem[item:1080, value:5.627141]
+
+
+Recommendation of Top 5 movies for User 352
+RecommendedItem[item:1367, value:5.539466]
+RecommendedItem[item:1500, value:5.1576505]
+RecommendedItem[item:1643, value:5.0374184]
+RecommendedItem[item:1368, value:5.0367007]
+RecommendedItem[item:1467, value:5.0144386]
+
+
+Recommendation of Top 5 movies for User 353
+RecommendedItem[item:1642, value:5.8535533]
+RecommendedItem[item:1398, value:5.8366365]
+RecommendedItem[item:1064, value:5.684699]
+RecommendedItem[item:868, value:5.50571]
+RecommendedItem[item:1342, value:5.5]
+
+
+Recommendation of Top 5 movies for User 354
+RecommendedItem[item:1500, value:4.8734097]
+RecommendedItem[item:1642, value:4.7303047]
+RecommendedItem[item:1334, value:4.6666665]
+RecommendedItem[item:1359, value:4.6666665]
+RecommendedItem[item:1449, value:4.657154]
+
+
+Recommendation of Top 5 movies for User 355
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1398, value:6.5]
+RecommendedItem[item:1064, value:6.184699]
+RecommendedItem[item:1396, value:6.0]
+RecommendedItem[item:1541, value:6.0]
+
+
+Recommendation of Top 5 movies for User 356
+RecommendedItem[item:1398, value:5.902369]
+RecommendedItem[item:1629, value:5.557191]
+RecommendedItem[item:1541, value:5.5]
+RecommendedItem[item:1500, value:5.5]
+RecommendedItem[item:1189, value:5.1462874]
+
+
+Recommendation of Top 5 movies for User 357
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1617, value:6.5]
+RecommendedItem[item:1449, value:6.1432996]
+RecommendedItem[item:851, value:6.0863256]
+RecommendedItem[item:1639, value:6.0279336]
+
+
+Recommendation of Top 5 movies for User 358
+RecommendedItem[item:1293, value:5.2842712]
+RecommendedItem[item:1612, value:4.7174764]
+RecommendedItem[item:1642, value:4.6489415]
+RecommendedItem[item:1463, value:4.583091]
+RecommendedItem[item:1398, value:4.409551]
+
+
+Recommendation of Top 5 movies for User 359
+RecommendedItem[item:1500, value:6.0]
+RecommendedItem[item:1398, value:5.884274]
+RecommendedItem[item:1642, value:5.8535533]
+RecommendedItem[item:1064, value:5.848084]
+RecommendedItem[item:1449, value:5.7246156]
+
+
+Recommendation of Top 5 movies for User 360
+RecommendedItem[item:1642, value:5.16279]
+RecommendedItem[item:1500, value:4.9942946]
+RecommendedItem[item:1398, value:4.9915166]
+RecommendedItem[item:1367, value:4.988411]
+RecommendedItem[item:1449, value:4.9835205]
+
+
+Recommendation of Top 5 movies for User 361
+RecommendedItem[item:1500, value:5.5953717]
+RecommendedItem[item:1191, value:5.4032936]
+RecommendedItem[item:1642, value:5.1521893]
+RecommendedItem[item:1449, value:5.0632997]
+RecommendedItem[item:1367, value:4.8726707]
+
+
+Recommendation of Top 5 movies for User 362
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1639, value:6.0]
+RecommendedItem[item:1189, value:5.407755]
+RecommendedItem[item:1642, value:5.391349]
+RecommendedItem[item:1158, value:5.3083906]
+
+
+Recommendation of Top 5 movies for User 363
+RecommendedItem[item:1500, value:5.3083906]
+RecommendedItem[item:1367, value:4.6532946]
+RecommendedItem[item:1467, value:4.579728]
+RecommendedItem[item:1642, value:4.566805]
+RecommendedItem[item:1368, value:4.516684]
+
+
+Recommendation of Top 5 movies for User 364
+RecommendedItem[item:1500, value:7.5]
+RecommendedItem[item:1064, value:5.5920405]
+RecommendedItem[item:868, value:5.485041]
+RecommendedItem[item:1293, value:5.4446807]
+RecommendedItem[item:1443, value:5.374201]
+
+
+Recommendation of Top 5 movies for User 365
+RecommendedItem[item:1500, value:5.8333335]
+RecommendedItem[item:1293, value:4.975129]
+RecommendedItem[item:1612, value:4.9484735]
+RecommendedItem[item:1449, value:4.938616]
+RecommendedItem[item:1537, value:4.842477]
+
+
+Recommendation of Top 5 movies for User 366
+RecommendedItem[item:1500, value:6.5]
+RecommendedItem[item:1642, value:6.1394396]
+RecommendedItem[item:868, value:6.057392]
+RecommendedItem[item:1398, value:5.732926]
+RecommendedItem[item:1449, value:5.731897]
+
+
+Recommendation of Top 5 movies for User 367
+RecommendedItem[item:1500, value:6.4046283]
+RecommendedItem[item:868, value:5.9968047]
+RecommendedItem[item:1367, value:5.854194]
+RecommendedItem[item:1449, value:5.8418274]
+RecommendedItem[item:1398, value:5.7578244]
+
+
+Recommendation of Top 5 movies for User 368
+RecommendedItem[item:1656, value:5.5]
+RecommendedItem[item:1191, value:5.3333335]
+RecommendedItem[item:1642, value:5.2071066]
+RecommendedItem[item:1500, value:5.1132703]
+RecommendedItem[item:868, value:5.041969]
+
+
+Recommendation of Top 5 movies for User 369
+RecommendedItem[item:1500, value:6.1394396]
+RecommendedItem[item:1519, value:6.0]
+RecommendedItem[item:1398, value:5.6743803]
+RecommendedItem[item:1449, value:5.5571885]
+RecommendedItem[item:1358, value:5.5]
+
+
+Recommendation of Top 5 movies for User 370
+RecommendedItem[item:1293, value:5.4775925]
+RecommendedItem[item:1191, value:4.9927907]
+Recom
